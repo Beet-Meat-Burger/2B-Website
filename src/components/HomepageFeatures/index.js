@@ -24,12 +24,12 @@ const FeatureList = [
     ),
   },
   {
-    url: "/docs/intro",
-    title: 'Edit Website',
+    url: "/docs/downloads",
+    title: 'Download Center',
     Svg: require('@site/static/img/code.svg').default,
     description: (
       <>
-        View the code or edit this page.
+        Download useful files.
       </>
     ),
   },
