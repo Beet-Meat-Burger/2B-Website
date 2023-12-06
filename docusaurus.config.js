@@ -60,16 +60,10 @@ const config = {
           src: 'img/2B.svg',
         },
         items: [
+          {to: '/docs/homework', label: 'Homework List', position: 'left'},
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.dev/Beet-Meat-Burger/2B-Website',
+            label: 'Edit Page',
             position: 'right',
           },
         ],
