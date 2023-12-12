@@ -8,7 +8,7 @@ sidebar_position: 1
 |History WB P.4-5, 12|十二月十三日|
 |HWC Ex5D (2,6,14,16)|十二月十三日|
 |Supp. Ex. Ch.5|十二月十三日|
-|Geog Quiz|十二月十四日|日
+|Geog Quiz|十二月十四日|
 |Math UT3 Corr.|十二月十四日|
 |	HWD Ch.5	                   |十二月十五日|
 |	Math WB Ch.5	               |十二月十五日|
