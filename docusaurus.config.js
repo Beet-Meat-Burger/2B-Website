@@ -73,7 +73,7 @@ const config = {
         links: [
           
         ],
-        copyright: `2B website, built by Steven and Heison. Powered by Docusaurus.`,
+        copyright: `2B website, built by Steven and Heison, updated by Kelvin and Heison. Powered by Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
