@@ -5,10 +5,9 @@ sidebar_position: 1
 # Homework List
 |繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--------|----|
-|閱讀卷|21/12| 
-|Reading aloud|21/12|
-|Geography Quiz corr|17/1|
-|revision exercise|17/1|
+|Maths HWC (Ex6C 6,10,12)|22/1|
+|中文帶習作簿+帶下冊書|22/1|
+|中文交作文file|23/1|
 |中文閱讀報告 第四份 (中史書)|21/2| 
 |中史專題 — 戰力圖|1/3|
 |中文閱讀報告 第五份|14/3|
