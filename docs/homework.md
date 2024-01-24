@@ -5,9 +5,13 @@ sidebar_position: 1
 # Homework List
 |繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--------|----|
-|HWA Ex6C(8,14,16)|24/1|
 |Foundation Ex.|25/1|
-|Fashion WS|25/1|
+|Bring Ch.7|25/1|
+|Math Textbook P.89 (Challenging Question)|25/1|
+|History Exam Corr.|26/1|
+|Fashion PPT|26/1|
+|中史作業 P.34-35|26/1|
+|Fashion Poem|27/1|
 |HWD Ch.6|30/1|
 |WB Ch.6|1/2|
 |中文閱讀報告 第四份 (中史書)|21/2| 
