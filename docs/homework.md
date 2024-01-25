@@ -5,9 +5,8 @@ sidebar_position: 1
 # Homework List
 |繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--------|----|
-|Foundation Ex.|25/1|
-|Bring Ch.7|25/1|
-|Math Textbook P.89 (Challenging Question)|25/1|
+|Bring Ch.7(for those who didn't bring today)|26/1|
+|Math HWB Ex6D(2,5,7)|26/1| 
 |History Exam Corr.|26/1|
 |Fashion PPT|26/1|
 |中史作業 P.34-35|26/1|
