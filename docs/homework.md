@@ -8,11 +8,15 @@ sidebar_position: 1
 |Bring Ch.7(for those who didn't bring today)|26/1|
 |Math HWB Ex6D(2,5,7)|26/1| 
 |History Exam Corr.|26/1|
-|Fashion PPT|26/1|
-|中史作業 P.34-35|26/1|
-|Fashion Poem|27/1|
+|Fashion PPT|29/1|
+|Dictation (Fashion)|29/1|
+|中史作業 P.34-35|30/1|
+|Fashion Poem|30/1|
 |HWD Ch.6|30/1|
-|WB Ch.6|1/2|
+|普通話重點詞語 第五課|31/1|
+|Fashion Design|1/2|
+|Math WB Ch.6|1/2|
+|Math Quiz Ch.6|1/2|
 |中文閱讀報告 第四份 (中史書)|21/2| 
 |中史專題 — 戰力圖|1/3|
 |中文閱讀報告 第五份|14/3|
