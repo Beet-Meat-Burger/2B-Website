@@ -5,12 +5,11 @@ sidebar_position: 1
 # Homework List
 |繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--------|----|
-|成語工作紙|29/1|
-|Fashion PPT|29/1|
-|Dictation (Fashion)|29/1|
+|Fashion PPT|30/1|
 |中史作業 P.34-35|30/1|
-|Fashion Poem|30/1|
 |HWD Ch.6|30/1|
+|HWC Ex7A(7, 11, 19, 24, 26, 28)|31/1|
+|Fashion Poem|31/1|
 |普通話重點詞語 第五課|31/1|
 |Fashion Design|1/2|
 |Math WB Ch.6|1/2|
