@@ -8,7 +8,6 @@ sidebar_position: 1
 |Dictation Corr.|1/2|
 |中文習作《愛蓮說》|1/2|
 |中史作業 P.36-37|1/2|
-|Fashion Design|1/2|
 |Math WB Ch.6|1/2|
 |Math Quiz Ch.6|1/2|
 |IS Dictation|1/2|
