@@ -5,12 +5,6 @@ sidebar_position: 1
 # Homework List
 |繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--------|----|
-|Dictation Corr.|1/2|
-|中文習作《愛蓮說》|1/2|
-|中史作業 P.36-37|1/2|
-|Math WB Ch.6|1/2|
-|Math Quiz Ch.6|1/2|
-|IS Dictation|1/2|
 |HWA Ex7B(2b,3b,11,12,22c,33)|2/2|
 |Fashion Draft|2/2|
 |Math Foundation Test|5/2|
