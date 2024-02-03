@@ -5,11 +5,11 @@ sidebar_position: 1
 # Homework List
 |繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--------|----|
-|HWA Ex7B(2b,3b,11,12,22c,33)|2/2|
-|Fashion Draft|2/2|
 |Math Foundation Test|5/2|
 |Grammar Unit 5|5/2|
 |Life WB P.7-8,11-13|5/2|
+|English Speech Writing|5/2|
+|成語工作紙|5/2|
 |Apple Painting|6/2|
 |背默《愛蓮說》|6/2|
 |Fashion Project A3 Paper|19/2|
