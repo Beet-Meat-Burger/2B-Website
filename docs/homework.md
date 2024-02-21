@@ -14,16 +14,12 @@ sidebar_position: 1
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |----|--------|----|
-|BK|中文閱讀報告 第四份 (中史書)|21/2|
-|HW|HWB Ex7D (1a,4,6,17,20a)|21/2|
-|BR|Bring Math Ch.8|21/2|
-|HW|Geog. Copy (8 steps) (If Ms Cheung tell you to do it)|21/2|
-|HW|Geog. Climatic Graph|21/2|
-|HW|Music WS Chinese Instument Q2-7|21/2|
 |HW|Anthology P.108-109|22/2|
 |HW|Grammar Unit 19|22/2|
 |QZ|Grammar Quiz (Passive Voice, Order of Adj.)|22/2|
+|HW|HWC Ex7D (7a,9,10,13,19,20b,22)|22/2|
 |HW|Math 5.5 Sectional Exercise|22/2|
+|HW|一國兩制及政府組成工作紙|22/2|
 |HW|成語工作紙|28/2|
 |HW|Fashion Speech Writing (Type on Computer)|28/2|
 |PS|English Presentation|28/2|
@@ -32,6 +28,7 @@ sidebar_position: 1
 |PS|普通話風俗介紹|1/3|
 |PJ|中史專題 — 戰力圖|1/3|
 |HW|中文閱讀報告 第五份|14/3|
+|QZ|Geography Quiz|18/3)
 |BK|IS Book Report|8/4|
 |BK|中文篇章報告《在錯誤中學習》|11/4|
 |BK|共通能力科 閱讀報告|18/4|
