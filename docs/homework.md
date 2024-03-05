@@ -14,22 +14,16 @@ sidebar_position: 1
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |----|--------|----|
-|HW|成語工作紙|5/3|
-|HW|《秦陵兵馬俑》習作|5/3|
-|PS|Fashion Presentation|5/3|
-|PS|Speech Writing (Type in Computer)|5/3|
-|HW|HWD Ex7D|5/3|
-|HW|Supplementry Exercise Ch.6|5/3|
-|QZ|Math Ch7 Quiz|5/3|
-|DT|中華經典名句(第15-21句) 默書|5/3|
-||IS WB 10.3-10.4, 10.5-10.6 (Do what she teach)|5/3|
+|HW|IS WB 10.3-10.4, 10.5-10.6 (Do what she teach) (Delayed)|12/3|
 |HW|Grammar Unit 17|12/3|
 |HW|Life WB Unit 1,10a|12/3|
 |UT|Math UT4|12/3|
 |HW|Fruit Party Drawing|12/3|
+|HW|中文書 P.7.13 Q4-5|12/3|
 |HW|Life Booklet P.1-5,9|13/3|
 |HW|Vocab Book on Feburary|14/3|
 |HW|中文閱讀報告 第五份|14/3|
+|HW|普通話重點詞語 第六課|14/3|
 |QZ|Geography Quiz|18/3|
 |HW|2 Book Reports on Feburary|20/3|
 |BK|IS Book Report|8/4|
