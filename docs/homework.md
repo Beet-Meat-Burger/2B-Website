@@ -14,14 +14,10 @@ sidebar_position: 1
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |----|--------|----|
-|HW|Life Booklet P.1-5,9|13/3|
-|HW|HWC Ex8B(19,22,24,26)|13/3|
-|BR|帶作文紙|13/3|
-|HW|中華經典名句默書改正|14/3|
-|HW|中文閱讀報告 第五份|14/3|
-|HW|普通話重點詞語 第六課|14/3|
-|QZ|Geography Quiz|14/3|
-|HW|Vocab Book on Feburary|15/3|
+|HW|Supp. Ex.|15/3|
+|HW|Grammar Unit 16|15/3|
+|DT|中華經典名句 (8-15句) 默書|15/3|
+|HW|Vocab Book on Feburary|18/3|
 |HW|HWD Ch.8|18/3|
 |HW|成語工作紙|18/3|
 |HW|Additional Exercise Ch.7|19/3|
