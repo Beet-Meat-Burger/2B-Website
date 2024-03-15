@@ -21,6 +21,7 @@ sidebar_position: 1
 |HW|HWD Ch.8|18/3|
 |HW|IS Quiz Ch.10 Corr.|18/3|
 |HW|IS WB Ch.10|18/3|
+|DT|普通話對譯手冊 第五、六課 默書|18/3|
 |HW|Math National Flag WS Ch.7|19/3|
 |HW|2 Book Reports on March|20/3|
 |HW|Math WB Ch.8|20/3|
