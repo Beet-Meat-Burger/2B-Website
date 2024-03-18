@@ -13,22 +13,19 @@ sidebar_position: 1
 <br/>TS = 測驗　　 Test
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
-|----|--------|----|
-|HW|成語工作紙|18/3|
-|HW|Grammar Unit 24|18/3|
-|HW|Vocab Book on Feburary|18/3|
-|HW|HWB Ex8D (6,7,12,17)|18/3|
-|HW|HWD Ch.8|18/3|
-|HW|IS Quiz Ch.10 Corr.|18/3|
-|HW|IS WB Ch.10|18/3|
-|DT|普通話對譯手冊 第五、六課 默書|18/3|
+|--|--------|----|
+|HW|中華經典名句 (8-15句) 默書改正|19/3|
 |HW|Math National Flag WS Ch.7|19/3|
+|HW|HWC Ex9A (1,4,6,12,24,31)|19/3|
+|HW|普通話默書改正|19/3|
 |HW|2 Book Reports on March|20/3|
 |HW|Math WB Ch.8|20/3|
 |QZ|Math Ch.8 Quiz|20/3|
+|HW|Geog Quiz Corr|20/3|
 |TS|History Revision Test 3|20/3|
 |HW|3月學習日誌|20/3|
 |HW|Additional Exercise Ch.7|25/3|
+|HW|普通話溫習紙|In UT2|
 |BK|IS Book Report|8/4|
 |BK|中文篇章報告《在錯誤中學習》|11/4|
 |HW|成語工作紙|15/4|
