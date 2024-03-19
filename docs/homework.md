@@ -14,12 +14,9 @@ sidebar_position: 1
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|中華經典名句 (8-15句) 默書改正|19/3|
-|HW|Math National Flag WS Ch.7|19/3|
-|HW|HWC Ex9A (1,4,6,12,24,31)|19/3|
-|HW|普通話默書改正|19/3|
 |HW|2 Book Reports on March|20/3|
 |HW|Math WB Ch.8|20/3|
+|HW|HWA Ex9B (9,10,14,17,18,22)|20/3|
 |QZ|Math Ch.8 Quiz|20/3|
 |HW|Geog Quiz Corr|20/3|
 |TS|History Revision Test 3|20/3|
