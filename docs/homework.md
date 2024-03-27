@@ -21,16 +21,16 @@ sidebar_position: 1
 |英文|ERS Book Report|9/4|
 |數學|Additional Exercise Ch.8|8/4|
 |綜合科學|IS Book Report|8/4|
+|西史|History Revision Test III Corrections|9/4|
 |生活與社會|香港特區維護國家安全的責任工作紙|11/4|
 <br/>
 所有功課：
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|Additional Exercise Ch.7|25/3|
-|HW|普通話溫習紙|In UT2|
 |BK|IS Book Report|8/4|
 |HW|Additional Exercise Ch.8|8/4|
 |BK|ERS Book Report|9/4|
+|BK|History Revision Test III Corrections|9/4|
 |BK|中文篇章報告《在錯誤中學習》|11/4|
 |HW|香港特區維護國家安全的責任工作紙|11/4|
 |HW|成語工作紙|15/4|
