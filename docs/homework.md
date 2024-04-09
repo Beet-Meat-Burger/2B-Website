@@ -17,6 +17,7 @@ sidebar_position: 1
 |HW|HWB Ex9C(7,16,19,22,25)|10/4|
 |HW|Supp. Ex. Ch.8|10/4|
 |BK|中文篇章報告《在錯誤中學習》|11/4|
+|HW|習作簿改正|11/4|
 |HW|香港特區維護國家安全的責任工作紙|12/4|
 |PJ|Testellation Project|12/4|
 |HW|History UT2 Corr.|15/4|
