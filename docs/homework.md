@@ -3,7 +3,8 @@ sidebar_position: 1
 ---
 
 # Homework List
-|類別 Type:| | |
+類別 Type:
+||||
 |--|----|--------|
 |HW|功課|Homework| 
 |BK|閱讀報告|Book Report|
