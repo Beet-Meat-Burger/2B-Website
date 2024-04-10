@@ -3,16 +3,6 @@ sidebar_position: 1
 ---
 
 # Homework List
-類別 Type:
-||||
-|--|----|--------|
-|HW|功課|Homework| 
-|BK|閱讀報告|Book Report|
-|PJ|專題研習|Project|
-|PS|演講|Presentation|
-|DT|默書|Dictation|
-|QZ|小測|Quiz|
-|TS|測驗|Test|
 
 <!-- From Steven: 
 I changed the format list into a table.
@@ -49,3 +39,14 @@ Original code below:
 |BK|中文篇章報告《口技》|9/5|
 |HW|成語工作紙|13/5|
 |BK|中文閱讀報告 第六份 (暑期功課)|Next year 1/9|
+
+類別 Type:
+||||
+|--|----|--------|
+|HW|功課|Homework| 
+|BK|閱讀報告|Book Report|
+|PJ|專題研習|Project|
+|PS|演講|Presentation|
+|DT|默書|Dictation|
+|QZ|小測|Quiz|
+|TS|測驗|Test|
