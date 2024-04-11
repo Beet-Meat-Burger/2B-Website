@@ -15,7 +15,7 @@ Original code below:
 <br/>PS = 演講　　 Presentation
 <br/>DT = 默書　　 Dictation
 <br/>QZ = 小測　　 Quiz
-<br/>TS = 測驗　　 Test
+<br/>TS = 測驗　　 Tests
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
