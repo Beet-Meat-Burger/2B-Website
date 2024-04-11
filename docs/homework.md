@@ -1,7 +1,6 @@
----
-sidebar_position: 1
----
 
+<<<<<<< HEAD
+=======
 # Homework List
 
 <!-- From Steven: 
@@ -9,8 +8,7 @@ I changed the format list into a table.
 If you don't like, feel free to revert.
 Original code below:
 -->
-
-<!--
+類別 Type:
 <br/>HW = 功課　　 Homework
 <br/>BK = 閱讀報告 Book Report
 <br/>PJ = 專題研習 Project
@@ -19,30 +17,23 @@ Original code below:
 <br/>QZ = 小測　　 Quiz
 <br/>TS = 測驗　　 Test
 <br/>
--->
-
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
 |HW|香港特區維護國家安全的責任工作紙|12/4|
 |PJ|Testellation Project|12/4|
+|HW|HWA Ex9E (5,8,10,12)|12/4|
+|HW|創意思維工作紙|14/4|
 |HW|History UT2 Corr.|15/4|
 |HW|成語工作紙|15/4|
 |HW|中文自主學習匯報|16/4|
+|HW|Listening P.61-67|17/4|
+|HW|HWD Ch.9|17/4|
 |BK|共通能力科 閱讀報告|18/4|
+|PS|中文自主學習匯報 演講|18/4|
 |HW|成語工作紙|22/4|
+|BK|2 Book Reports in April|23/4|
 |HW|成語工作紙|29/4|
 |HW|成語工作紙|6/5|
 |BK|中文篇章報告《口技》|9/5|
 |HW|成語工作紙|13/5|
 |BK|中文閱讀報告 第六份 (暑期功課)|Next year 1/9|
-
-類別 Type:
-||||
-|--|----|--------|
-|HW|功課|Homework| 
-|BK|閱讀報告|Book Report|
-|PJ|專題研習|Project|
-|PS|演講|Presentation|
-|DT|默書|Dictation|
-|QZ|小測|Quiz|
-|TS|測驗|Test|
