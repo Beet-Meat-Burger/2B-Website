@@ -19,12 +19,6 @@ Original code below:
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|香港特區維護國家安全的責任工作紙|12/4|
-|PJ|Testellation Project|12/4|
-|HW|HWA Ex9E (5,8,10,12)|12/4|
-|HW|創意思維工作紙|14/4|
-|HW|History UT2 Corr.|15/4|
-|HW|成語工作紙|15/4|
 |HW|中文自主學習匯報|16/4|
 |HW|Listening P.61-67|17/4|
 |HW|HWD Ch.9|17/4|
