@@ -10,12 +10,16 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|中文自主學習匯報|16/4|
 |HW|Listening P.61-67|17/4|
 |HW|HWD Ch.9|17/4|
+|HW|English Exotic Animal Poem|18/4|
 |BK|共通能力科 閱讀報告|18/4|
 |PS|中文自主學習匯報 演講|18/4|
+|QZ|Math Ch.9 Quiz|18/4|
+|HW|HWC Ex9F (19.23.26,28)|18/4|
+|HW|Math WB Ch.9|18/4|
 |HW|成語工作紙|22/4|
+|HW|Anthology Unit 19 P.104-107||
 |BK|2 Book Reports in April|23/4|
 |HW|成語工作紙|29/4|
 |HW|成語工作紙|6/5|
