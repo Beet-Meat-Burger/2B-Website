@@ -1,13 +1,5 @@
-
-<<<<<<< HEAD
 =======
 # Homework List
-
-<!-- From Steven: 
-I changed the format list into a table.
-If you don't like, feel free to revert.
-Original code below:
--->
 類別 Type:
 <br/>HW = 功課　　 Homework
 <br/>BK = 閱讀報告 Book Report
