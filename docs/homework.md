@@ -10,15 +10,11 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|English Exotic Animal Poem|18/4|
-|PS|中文自主學習匯報 演講|18/4|
-|QZ|Math Ch.9 Quiz|18/4|
-|HW|HWC Ex9F (19,23,26,28)|18/4|
-|HW|IS WB 9.1|18/4|
 |HW|Math WB Ch.9|19/4|
 |HW|HWA Ex10A (4a,5a,6a,19,23a,24b,35)|19/4|
 |HW|學生壓力來源 影片|19/4|
 |HW|Grammar Unit 6|19/4|
+|HW|Life Textbook Unit 5c Parts 4,5,7|19/4|
 |HW|成語工作紙|22/4|
 |HW|Anthology Unit 19 P.104-107|22/4|
 |BK|2 Book Reports in April|23/4|
