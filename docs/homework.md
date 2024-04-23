@@ -10,11 +10,7 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|HWC Ex10A (9a,15a,16,21,15a,27a)|23/4|
-|HW|Math Ch.9 Quiz Corr.|23/4|
-|BK|2 Book Reports in April|23/4|
-|BK|共通能力科 閱讀報告|23/4|
-|BR|Bring Photocopies for interview teacher|23/4|
+|HW|HWA Ex10B (2,10,12,14,21,22,24)|24/4|
 |HW|中史作業 P.48|24/4|
 |HW|F.2 News Commentry|25/4|
 |HW|Grammar Unit 12|25/4|
