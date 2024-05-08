@@ -22,9 +22,9 @@
 |HW|Self Portrait with Colour|10/5|
 |HW|成語工作紙|13/5|
 |HW|中史作業 P.49-50|13/5|
-|HW|普通話短講|13/5|
+|SP|普通話短講|13/5|
 |PJ|Braille Project Presentation|13/5|
-|PS|共通能力科 匯報 第一至二組|16/5|
+|PS|共通能力科 匯報（James 組, Heison Lai 組）|16/5|
 |PS|Musical|17/5|
 |HW|Needlework for Odd Number|20/5|
 |HW|帶食譜 (English Version)|20/5|
