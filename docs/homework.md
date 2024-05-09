@@ -11,15 +11,11 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|BK|中文篇章報告《口技》|9/5|
-|SP|中文短講|9/5|
-|HW|Vocab Book in April (50 Words)|9/5|
-|HW|HWC Ex11A (7,10,14,18,20,26)|9/5|
-|HW|四月學習日誌|9/5|
 |QZ|Math Quiz Ch.10|10/5|
 |BR|Bring IS WB 2A Ch.7-8+Cover, 2B Ch.9-10+Cover|10/5|
 |DT|Geog Dict Map|10/5|
 |HW|Self Portrait with Colour|10/5|
+|HW|媒體素養工作紙|11/5|
 |HW|成語工作紙|13/5|
 |HW|中史作業 P.49-50|13/5|
 |SP|普通話短講|13/5|
