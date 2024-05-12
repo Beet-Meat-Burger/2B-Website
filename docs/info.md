@@ -11,6 +11,7 @@ sidebar_position: 1
 <br/>NEW WEBSITE
 <br/>https://class2b.onrender.com
 <br/>Upload at 5-6 pm on Mondays to Fridays
+>>>>>>> 8326d89f65b2b5294fdd0d49bdea0cb896d2bfa0
 <br/>
 <br/>諺語：
 <br/>《語文運用者，離不開李治》
