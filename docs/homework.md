@@ -23,6 +23,7 @@
 |HW|F.2 News Commentry|16/5|
 |PS|Musical|17/5|
 |HW|Needlework for Odd Number|20/5|
+|HW|The outline of Mystery Story|20/5|
 |HW|帶食譜 (English Version)|20/5|
 |PJ|Braille Project Presentation|20/5|
 |TS|中史測驗|27/5|
