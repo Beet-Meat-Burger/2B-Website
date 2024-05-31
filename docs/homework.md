@@ -11,16 +11,12 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|TS|中史測驗|27/5|
-|HW|Supplementry Ex. Ch.11|27/5|
-|HW|Math UT6 Corr|27/5|
-|HW|HWC Ex12A (9b,10b,13b,16,26b)|28/5|
-|TS|History Revision Test|28/5|
-|DT|《桃花源記》默書 第三段|29/5|
-|HW|Water Colour Drawing|29/5|
-|HW|Math WB Ch.11|29/5|
-|QZ|Math Quiz Ch.11|29/5|
-|HW|五月學習日誌|30/5|
-|QZ|Unit 9 Quiz|30/5|
+|HW|Foundation Exercise Algebra|3/6|
+|HW|GS 匯報 (Kason 組, Andrew 組)|3/6|
+|HW|Math Quiz Unit 11 Corr|3/6|
+|PS|Impromptu Speech|3/6|
+|QZ|IS Unit 11.1-11.3 Quiz|3/6|
 |BK|2 Book Reports on May|3/6|
+|HW|Grammar P.78-79, 81-82, 289.294|4/6|
+|HW|HWD Ch.12|7/6|
 |BK|中文閱讀報告 第六份 (暑期功課)|Next year 1/9|
