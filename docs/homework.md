@@ -11,12 +11,10 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|Foundation Exercise Algebra|3/6|
-|HW|GS 匯報 (Kason 組, Andrew 組)|3/6|
-|HW|Math Quiz Unit 11 Corr|3/6|
-|PS|Impromptu Speech|3/6|
-|QZ|IS Unit 11.1-11.3 Quiz|3/6|
-|BK|2 Book Reports on May|3/6|
-|HW|Grammar P.78-79, 81-82, 289.294|4/6|
+|HW|Grammar P.78-79, 81-82, 289-294|4/6|
+|QZ|死亡遊戲|4/6|
+|TS|Foundation Test|4/6|
+|HW|HWC Ex12D (12,20,21,22)|5/6|
+|HW|Math WB Ch.12|7/6|
 |HW|HWD Ch.12|7/6|
 |BK|中文閱讀報告 第六份 (暑期功課)|Next year 1/9|
