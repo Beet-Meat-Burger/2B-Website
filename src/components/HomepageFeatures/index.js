@@ -15,11 +15,11 @@ const FeatureList = [
   },
   {
     url: "/docs/info",
-    title: '2B Info',
+    title: '3B Info and Board',
     Svg: require('@site/static/img/2B.svg').default,
     description: (
       <>
-        View infomation for Class 2B.
+        View infomation for Class 3B.
       </>
     ),
   },

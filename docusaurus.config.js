@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '2B Website',
-  tagline: 'To be or not to be, 2B is the answer.',
+  title: '3B Website',
+  tagline: 'Title not set yet.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -54,13 +54,15 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '2B Website',
+        title: '3B Website',
         logo: {
           alt: 'My Site Logo',
           src: 'img/2B.svg',
         },
         items: [
           {to: '/docs/homework', label: 'Homework List', position: 'left'},
+          {to: '/docs/downloads', label: 'Download Center', position 'left'},
+          }
           {
             href: 'https://github.dev/Beet-Meat-Burger/2B-Website',
             label: 'Edit Page',
