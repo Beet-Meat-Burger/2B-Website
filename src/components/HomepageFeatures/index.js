@@ -35,8 +35,8 @@ const FeatureList = [
   },
   {
     url: "docs/timetable_and_calandar",
-    title: 'Timetable and Calandar'
-    Svg: require('@site/static/img/list.svg').default
+    title: 'Timetable and Calandar',
+    Svg: require('@site/static/img/list.svg').default,
     description: (
       <>
         Check the Timetable and Calandar.
