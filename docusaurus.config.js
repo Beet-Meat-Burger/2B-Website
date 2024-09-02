@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '3B Website',
-  tagline: 'Title not set yet.',
+  tagline: 'The Website with trustable Homework List.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
