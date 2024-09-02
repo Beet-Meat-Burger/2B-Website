@@ -16,7 +16,7 @@ const FeatureList = [
   {
     url: "/docs/info",
     title: '3B Info and Board',
-    Svg: require('@site/static/img/2B.svg').default,
+    Svg: require('@site/static/img/3B.svg').default,
     description: (
       <>
         View infomation for Class 3B.
@@ -36,7 +36,7 @@ const FeatureList = [
   {
     url: "docs/timetable_and_calandar",
     title: 'Timetable and Calandar',
-    Svg: require('@site/static/img/list.svg').default,
+    Svg: require('@site/static/img/timetable.svg').default,
     description: (
       <>
         Check the Timetable and Calandar.

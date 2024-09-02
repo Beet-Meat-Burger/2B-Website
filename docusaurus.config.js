@@ -57,7 +57,7 @@ const config = {
         title: '3B Website',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/2B.svg',
+          src: 'img/3B.svg',
         },
         items: [
           {to: '/docs/homework', label: 'Homework List', position: 'left'},
@@ -75,7 +75,7 @@ const config = {
         links: [
           
         ],
-        copyright: `2B website, built by Steven and Heison, updated by Kelvin and Heison. Powered by Docusaurus.`,
+        copyright: `3B website, built by Steven and Heison, updated by Kelvin and Heison. Powered by Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
