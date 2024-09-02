@@ -42,6 +42,16 @@ const FeatureList = [
         Check the Timetable and Calandar.
       </>
     ),
+  },
+  {
+    url: "docs/poem",
+    title: 'Poem',
+    Svg: require('@site/static/img/poem.svg').default,
+    description: (
+      <>
+        Shows CLASS 3B Poem.
+      </>
+    ),
   }
 ];
 
