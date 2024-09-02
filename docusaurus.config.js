@@ -61,7 +61,7 @@ const config = {
         },
         items: [
           {to: '/docs/homework', label: 'Homework List', position: 'left'},
-          {to: '/docs/downloads', label: 'Download Center', position 'left'},
+          {to: '/docs/downloads', label: 'Download Center', position: 'left'},
           
           {
             href: 'https://github.dev/Beet-Meat-Burger/2B-Website',
