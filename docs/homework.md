@@ -1,6 +1,6 @@
 # Homework List
 <h3>類別 Type:</h3>
-<br/>HW = 功課　　 Homework
+HW = 功課　　 Homework
 <br/>BK = 閱讀報告 Book Report
 <br/>PJ = 專題研習 Project
 <br/>PS = 演講　　 Presentation
