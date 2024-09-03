@@ -9,7 +9,7 @@
 <br/>QZ = 小測　　 Quiz
 <br/>TS = 測驗　　 Tests
 <br/>
-<br/></h4>速報：明天帶數學 Ch.2
+<br/><h4>速報：明天帶數學 Ch.2</h4>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
 |HW|How my HW list not trusted|九月三日|
