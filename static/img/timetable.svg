@@ -1,8 +1,8 @@
-<svg width="175" height="175" xmlns="http://www.w3.org/2000/svg">
+<svg width="192" height="180" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>Layer 1</title>
   <text font-weight="bold" font-style="normal" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="71" id="svg_1" y="324" x="0" stroke-width="0" fill="#000000">Poem</text>
-  <text transform="matrix(1 0 0 1 0 0)" style="cursor: move;" stroke="#000" fill="#000000" stroke-width="0" x="8.92188" y="103.5" id="svg_2" font-size="40" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">Timetable</text>
+  <text transform="matrix(1 0 0 1 0 0)" stroke="#000" fill="#000000" stroke-width="0" x="14.92188" y="103.5" id="svg_2" font-size="40" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">Timetable</text>
  </g>
 
 </svg>
