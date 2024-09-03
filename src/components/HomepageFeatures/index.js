@@ -16,7 +16,7 @@ const FeatureList = [
   {
     url: "/docs/info",
     title: '3B Info and Board',
-    Svg: require('https://i.postimg.cc/t4K4LCPj/file.jpg').default,
+    Svg: require('@site/static/img/3B.svg').default,
     description: (
       <>
         View infomation for Class 3B.
