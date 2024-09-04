@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '最新消息',
-  tagline: '明天 16:00 放學。 明天有運動課，請帶備運動服回來更換。',
+  title: '3B Website',
+  tagline: 'The website with Trustable Homework List.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
