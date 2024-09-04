@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Latest ',
+  title: 'Latest News',
   tagline: '明天 16:00 放學。 明天有運動課，請帶備運動服回來更換。',
   favicon: 'img/favicon.ico',
 
