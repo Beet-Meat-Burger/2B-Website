@@ -14,6 +14,9 @@ HW = 功課　　 Homework
 <h4>明天有運動課，請帶備運動服回來換。</h4>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
+|BR|Bring Grammar Book Answer Key|九月五日|
+|BR|Bring Short Exercise Bk. (For Vocab and Dict)|九月五日|
+|BR|Bring Listening Data File|九月五日|
 |HW|中史作業 P.2|九月六日|
 |BR|Bring History WB|九月八日|
 |BK|中史書評|十一月二十九日|
