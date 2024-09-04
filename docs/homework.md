@@ -21,6 +21,12 @@ HW = 功課　　 Homework
 |BR|Bring Listening Data File|九月五日|
 |HW|中史作業 P.2|九月六日|
 |BR|Bring History WB|九月八日|
+|UT|Math UT1|十月九日|
+|UT|Math UT2|十月UT內|
 |BK|中史書評|十一月二十九日|
+|UT|Math UT3|十二月二日|
 |TS|中史小測 上學期|十二月五日|
+|UT|Math UT4|三月十七日|
+|UT|Math UT5|三月UT內|
 |TS|中史小測 下學期|五月二十九日|
+|UT|Math UT6|六月四日|
