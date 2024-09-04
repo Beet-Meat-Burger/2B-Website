@@ -10,8 +10,10 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-<h4>明天 16:00 放學。</h4>
-<h4>明天有運動課，請帶備運動服回來換。</h4>
+明天 16:00 放學。
+<br/>明天有運動課，請帶備運動服回來換。
+<br/>Tommorow bring Grammar Book - Mr Tong
+<br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
 |BR|Bring Grammar Book Answer Key|九月五日|
