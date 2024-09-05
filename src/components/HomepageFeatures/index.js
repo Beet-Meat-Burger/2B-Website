@@ -24,7 +24,7 @@ const FeatureList = [
     ),
   },
   {
-    url: "/docs/homework-history",
+    url: "/docs/homework_history",
     title: 'Homework History',
     Svg: require('@site/static/img/list.svg').default,
     description: (

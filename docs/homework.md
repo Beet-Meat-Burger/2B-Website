@@ -11,7 +11,7 @@ HW = 功課　　 Homework
 <br/>
 <br/><h3>速報： </h3>
 明天打風，星期五停課。
-<br/>星期一 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable/">時間表</a>帶書。
+<br/>星期一 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>帶綠色 Music File。
 <br/>中史功課延期。
 <br/>
