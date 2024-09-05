@@ -1,8 +1,8 @@
 <svg width="175" height="175" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>Layer 1</title>
-  <text font-weight="bold" font-style="normal" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="74" id="svg_1" y="324" x="0" stroke-width="0" fill="#000000">Poem</text>
-  <text transform="matrix(1 0 0 1 0 0)" stroke="#000" fill="#000000" stroke-width="0" x="17.10938" y="111.75" id="svg_2" font-size="64" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">Poem</text>
+  <text font-weight="bold" font-style="normal" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="74" id="svg_1" y="324" x="0" stroke-width="0" fill="#000000">Post</text>
+  <text transform="matrix(1 0 0 1 0 0)" stroke="#000" fill="#000000" stroke-width="0" x="17.10938" y="111.75" id="svg_2" font-size="64" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">Post</text>
  </g>
 
 </svg>

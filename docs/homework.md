@@ -10,15 +10,17 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天可能打風，如果沒有，帶 Day 3 書。
-<br/>
+明天打風，星期五停課。
+<br/>星期一 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/timetable/">時間表</a>帶書。
+<br/>帶綠色 Music File。
+<br/>中史功課延期。
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|中史作業 P.2|九月六日|
-|HW|中文書 預習 P.5.5|九月六日|
-|BR|Bring History WB|九月十日|
+|HW|中文書 預習 P.5.5|九月九日|
 |HW|Wonder Booklet P.5-6|九月九日|
+|BR|Bring History WB|九月十日|
+|HW|中史作業 P.2|九月十二日|
 |BK|中文閱書報告 第一篇|九月十六日|
 |HW|Vocab Book on Sept.|九月二十三日|
 |UT|Math UT1|十月九日|

@@ -54,12 +54,12 @@ const FeatureList = [
     ),
   },
   {
-    url: "docs/poem",
-    title: 'Poem',
+    url: "docs/post",
+    title: 'Post',
     Svg: require('@site/static/img/poem.svg').default,
     description: (
       <>
-        Shows CLASS 3B Poem.
+        Shows CLASS 3B Posts.
       </>
     ),
   }
