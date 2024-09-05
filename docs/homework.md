@@ -25,10 +25,10 @@ HW = 功課　　 Homework
 |BR|帶學校紅色及黃色文件夾|九月五日|
 |HW|中文書 預習 P.1.6|九月五日|
 |HW|中史作業 P.2|九月六日|
-|BR|Bring History WB|九月八日|
+|BR|Bring History WB|九月十日|
+|HW|Wonder Booklet P.5-6|九月九日|
 |BK|中文閱書報告 第一篇|九月十六日|
 |HW|Vocab Book on Sept.|九月二十三日|
-|BK|中文篇章報告 《貓》|十月二日|
 |UT|Math UT1|十月九日|
 |BK|中文閱讀報告 第二篇（中國文化）|十月十五日|
 |HW|Vocab Book on Oct.|十月二十一日|
@@ -39,7 +39,6 @@ HW = 功課　　 Homework
 |BK|中文閱讀報告 第三篇|十二月三日|
 |TS|中史小測 上學期|十二月五日|
 |BK|中文閱讀報告 第四篇|二月十日|
-|BK|中文篇章報告 《想和做》|三月五日|
 |UT|Math UT4|三月十七日|
 |UT|Math UT5|三月UT內|
 |BK|中文篇章報告 《說謙虛》|四月二十八日|
