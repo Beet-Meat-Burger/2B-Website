@@ -29,7 +29,7 @@ const FeatureList = [
     Svg: require('@site/static/img/list.svg').default,
     description: (
       <>
-        The History of the Homework.
+        For classmates who forgot to submit.
       </>
     )
   },
