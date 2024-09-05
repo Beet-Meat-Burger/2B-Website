@@ -27,9 +27,11 @@ HW = 功課　　 Homework
 |HW|中史作業 P.2|九月六日|
 |BR|Bring History WB|九月八日|
 |BK|中文閱書報告 第一篇|九月十六日|
+|HW|Vocab Book on Sept.|九月二十三日|
 |BK|中文篇章報告 《貓》|十月二日|
 |UT|Math UT1|十月九日|
 |BK|中文閱讀報告 第二篇（中國文化）|十月十五日|
+|HW|Vocab Book on Oct.|十月二十一日|
 |UT|Math UT2|十月UT內|
 |BK|中文篇章報告 《老屋》|十一月五日|
 |BK|中史書評|十一月二十九日|
