@@ -25,6 +25,7 @@ HW = 功課　　 Homework
 |BR|帶學校紅色及黃色文件夾|九月五日|
 |HW|中文書 預習 P.1.6|九月五日|
 |HW|中史作業 P.2|九月六日|
+|HW|中文書 預習 P.5.5|九月六日|
 |BR|Bring History WB|九月十日|
 |HW|Wonder Booklet P.5-6|九月九日|
 |BK|中文閱書報告 第一篇|九月十六日|
