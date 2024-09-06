@@ -37,7 +37,7 @@ On June of this year, the classmates start to say that I am untrustable now. I u
 <br/>At summer holiday, I wasted myself. However, I still want to contribute to classmates by making Homework list to help them. I started to change the Website to Form three version, but I cannot change the url. 
 <br/> 
 <br/>Now you asked why url cannot change to form three. I am sorry that making a new url is very hard. The form two website is made by the one who is now not same class with me. I have no any programming experiences. When I start learning using Render, which is the platform that the Website host, I am disappointed. I found that making a new url for form three Homework list need use Credit Card. Yes, it is Credit card. I am fucked and asked him. He said I need to enter a valid credit card to make a new url. At that time, I am ruined as I have no Credit card. I am only a useless form three student.
-<<br/> 
+<br/> 
 <br/>I successfully changed and release to my class group. I hope I can become useful on helping others. However, everything changes on Form three.
 <br/> 
 <br/>First, you think that I am untrustable and the website is very fake. Yes, I am untrustable, but ONLY JUNE and THE DATE THAT THE WEBSITE CRASHED. I am very sorry that I am not trustable at that time, but I have used lots of effort. About the detailed reason, check the head paragraph of this chapter. Yeah this makes you think that I make fake website, but I am sorry that I am not trustable and I am reasonable for that.
