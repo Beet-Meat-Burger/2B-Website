@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Post
 <br/>
-<h2>$$About Homework List$$</h2>
+$$About Homework List$$
 
 <h3>---------Form One---------</h3>
 I don't want to talk about this actually. However, I have thought this for an hour. I decide to say it.
