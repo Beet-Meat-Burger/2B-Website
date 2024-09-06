@@ -8,10 +8,15 @@ sidebar_position: 1
 
 <h3>---------Form One---------</h3>
 I don't want to talk about this actually. However, I have thought this for an hour. I decide to say it.
+
 <br/>What is a homework list? For making people more convenient. So I want to give contribution to the classmates that will know in detail. I work it as the original Handbook HW List is too messy.
+
 <br/>Yeah how this Homework list works. I have worked this since I am in F1 And I know that I have contribution to the classmates, also F2.
+
 <br/>For have a clear HW List, I use website with webnode, as it is free for me. Yeah I know it may be inconvenient sometimes, but it can make a clear date. In whatsapp just send the HW, and the date not clear. The Website can make these Homeworks arrange in Date. Also I can put more information in it. 
+
 <br/>Yes, I know someone thinks that Website to show it is useless, but I hope they can actually see how detail will be.
+
 <br/>That's How I made this in F1. And my contributions.
 <br/>
 <h3>---------Form Two---------</h3>
