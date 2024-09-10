@@ -10,14 +10,15 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-<br/>明天 Day 6，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 6，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4: After School
-<br/>
+<br/>Since Mr Tong forget to give the third F2 Poem in F2, so 2B students last year need to finish that poem before Friday.
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
 |HW|中文書 P.1.11 第三題, P.1.12 第五至六題|九月十一日|
 |HW|中史作業 P.2|九月十二日|
 |HW|Grammar Unit 9 P.77-83|九月十二日|
+|HW|For 2B last year: Poem 3|九月十三日|
 |BK|中文閱書報告 第一篇|九月十六日|
 |QZ|Grammar Quiz|九月二十日|
 |HW|Vocab Book on Sept.|九月二十三日|
