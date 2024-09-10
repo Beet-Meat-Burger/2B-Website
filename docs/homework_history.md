@@ -20,3 +20,7 @@ HW = 功課　　 Homework
 |HW|中文書 預習 P.1.6|九月五日|
 |HW|中文書 預習 P.5.5|九月九日|
 |HW|Wonder Booklet P.5-6|九月九日|
+|BR|Bring History WB|九月十日|
+|BR|帶作文紙|九月十日|
+|HW|說明工作紙（紙巾）|九月十日|
+|HW|HWA Ex2A (18,19,22,25,26,30b,32b)|九月十日|
