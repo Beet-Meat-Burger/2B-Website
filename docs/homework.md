@@ -16,10 +16,12 @@ HW = 功課　　 Homework
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
 |HW|中文書 P.1.11 第三題, P.1.12 第五至六題|九月十一日|
+|HW|帶一疊作文紙（全疊）|九月十一日|
 |HW|中史作業 P.2|九月十二日|
 |HW|Grammar Unit 9 P.77-83|九月十二日|
 |HW|For 2B last year: Poem 3|九月十三日|
 |BK|中文閱書報告 第一篇|九月十六日|
+|HW|習作簿 P.5.8 第三至四題|九月十九日|
 |QZ|Grammar Quiz|九月二十日|
 |HW|Vocab Book on Sept.|九月二十三日|
 |QZ|Resource Optimisation Quiz 1|九月二十七日|
