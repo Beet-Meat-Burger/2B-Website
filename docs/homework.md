@@ -18,6 +18,7 @@ HW = 功課　　 Homework
 |HW|中史作業 P.2|九月十二日|
 |HW|Chem WS Exercise 1|九月十二日|
 |HW|Grammar Unit 9 P.77-83|九月十二日|
+|HW|HWB Ex2B (9b,13b,21,23,25a,27a)|九月十二日|
 |HW|For 2B last year: Poem 3|九月十三日|
 |BK|中文閱書報告 第一篇|九月十六日|
 |HW|習作簿 P.5.8 第三至四題|九月十九日|
