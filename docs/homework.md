@@ -53,4 +53,9 @@ HW = 功課　　 Homework
 Steven:
 Epic story you have in Posts. I read it...
 Wow.
+
+Heison: 
+I hope you know What I truly want to say.
+I think I hide it too much.
+Look Experiment.
 -->
