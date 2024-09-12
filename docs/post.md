@@ -66,3 +66,10 @@ I think I should end this website. If I continue to use this website that no one
 Therefore, if you see this on the post of my website, I hope you can see and tell me someone cares me. I hope I can give contributions. If you see that I don't upload, tell me. It is easy.
 
 Just do it. I am waiting for classmates that cares my website.
+<br/>
+<h3>-----------Result----------</h3>
+Today is 12/9/2024. Today I uploaded it on 19:51, I should upload earlier. However, no one told me to upload it.
+
+The experiment success. No one cares me. I should stop it. If you see this, Tell me. I hope someone that cares my website that makes me think that I am not doing useless thing.
+
+If no one tell me, I will stop it on late Sept.

@@ -10,20 +10,21 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天 Day 1，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 2，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4: After School
 <br/>Since Mr Tong forget to give the third F2 Poem in F2, so 2B students last year need to finish that poem before Friday.
+<br/><a href="https://class2b-6h3a.onrender.com/docs/post">I am useless. See there.</a>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|中史作業 P.2|九月十二日|
-|HW|Chem WS Exercise 1|九月十二日|
-|HW|Grammar Unit 9 P.77-83|九月十二日|
-|HW|HWB Ex2B (9b,13b,21,23,25a,27a)|九月十二日|
 |HW|For 2B last year: Poem 3|九月十三日|
+|HW|HWC Ex2C (10,11,14,24)|九月十三日|
 |BK|中文閱書報告 第一篇|九月十六日|
+|HW|中史作業 P.3-7|九月十六日|
+|HW|Grammar Unit 29|九月十七|
 |HW|習作簿 P.5.8 第三至四題|九月十九日|
 |QZ|Grammar Quiz|九月二十日|
 |HW|Vocab Book on Sept.|九月二十三日|
+|HW|報評 (互證)|九月二十六日|
 |QZ|Resource Optimisation Quiz 1|九月二十七日|
 |UT|Math UT1|十月九日|
 |BK|中文閱讀報告 第二篇（中國文化）|十月十五日|
