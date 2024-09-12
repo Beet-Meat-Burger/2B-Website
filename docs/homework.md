@@ -13,7 +13,7 @@ HW = 功課　　 Homework
 明天 Day 2，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4: After School
 <br/>Since Mr Tong forget to give the third F2 Poem in F2, so 2B students last year need to finish that poem before Friday.
-<br/><a href="https://class2b-6h3a.onrender.com/docs/post">I am useless. See there.</a>
+<br/><a href="https://class2b-6h3a.onrender.com/docs/post">Bring Poetry Portfolio.</a>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
 |HW|For 2B last year: Poem 3|九月十三日|
