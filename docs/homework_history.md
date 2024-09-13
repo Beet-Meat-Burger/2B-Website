@@ -30,3 +30,5 @@ HW = 功課　　 Homework
 |HW|Chem WS Exercise 1|九月十二日|
 |HW|Grammar Unit 9 P.77-83|九月十二日|
 |HW|HWB Ex2B (9b,13b,21,23,25a,27a)|九月十二日|
+|HW|For 2B last year: Poem 3|九月十三日|
+|HW|HWC Ex2C (10,11,14,24)|九月十三日|
