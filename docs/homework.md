@@ -21,6 +21,8 @@ HW = 功課　　 Homework
 |HW|HWC Ex2C(31,32,33)|九月十六日|
 |HW|Grammar Unit 29|九月十七日|
 |HW|文言練習 1.1-1.2|九月十七日|
+|HW|Conditional WS|九月十九日|
+|HW|Wonder booklet P.6-7|九月十九日|
 |HW|中文書 文言知識庫 P.1.14-1.17|九月十九日|
 |HW|中文書 預習 P.2.6|九月十九日|
 |BR|Check Non-Fiction Book|九月十九日|
