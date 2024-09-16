@@ -32,3 +32,7 @@ HW = 功課　　 Homework
 |HW|HWB Ex2B (9b,13b,21,23,25a,27a)|九月十二日|
 |HW|For 2B last year: Poem 3|九月十三日|
 |HW|HWC Ex2C (10,11,14,24)|九月十三日|
+|BK|中文閱書報告 第一篇|九月十六日|
+|HW|中史作業 P.3-7|九月十六日|
+|HW|Wonder Booklet P.8-10|九月十六日|
+|HW|HWC Ex2C(31,32,33)|九月十六日|

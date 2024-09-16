@@ -15,10 +15,6 @@ HW = 功課　　 Homework
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|BK|中文閱書報告 第一篇|九月十六日|
-|HW|中史作業 P.3-7|九月十六日|
-|HW|Wonder Booklet P.8-10|九月十六日|
-|HW|HWC Ex2C(31,32,33)|九月十六日|
 |HW|Grammar Unit 29|九月十七日|
 |HW|文言練習 1.1-1.2|九月十七日|
 |HW|Conditional WS|九月十九日|
@@ -26,11 +22,16 @@ HW = 功課　　 Homework
 |HW|中文書 文言知識庫 P.1.14-1.17|九月十九日|
 |HW|中文書 預習 P.2.6|九月十九日|
 |BR|Check Non-Fiction Book|九月十九日|
+|HW|Writing Booklet P.5|九月十九日|
 |HW|習作簿 P.5.8 第三至四題|九月二十日|
 |QZ|Grammar Quiz|九月二十日|
 |HW|文言練習 1.3-1.4|九月二十三日|
 |HW|Vocab Book on Sept.|九月二十三日|
 |HW|報評 (互證)|九月二十三日|
+|DT|背默《兵車行》|九月二十四日|
+|DT|問文言詞解 1.1-1.4|九月二十五日|
+|HW|中文書 閱讀理解 P.1.25 第一至三題|九月二十六日|
+|HW|中文書 語文運用 P.1.48-1.48|九月二十七日|
 |QZ|Resource Optimisation Quiz 1|九月二十七日|
 |BK|2 Book Reports on Sept.|九月三十日|
 |BK|文言練習 1.5-1.6|九月三十日|
