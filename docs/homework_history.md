@@ -36,3 +36,5 @@ HW = 功課　　 Homework
 |HW|中史作業 P.3-7|九月十六日|
 |HW|Wonder Booklet P.8-10|九月十六日|
 |HW|HWC Ex2C(31,32,33)|九月十六日|
+|HW|Grammar Unit 29|九月十七日|
+|HW|文言練習 1.1-1.2|九月十七日|
