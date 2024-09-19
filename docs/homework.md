@@ -10,20 +10,15 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天 Day 5，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 6，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4: After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|Conditional WS|九月十九日|
-|HW|Wonder booklet P.6-7|九月十九日|
-|HW|中文書 文言知識庫 P.1.14-1.17|九月十九日|
-|HW|中文書 預習 P.2.6|九月十九日|
-|BR|Check Non-Fiction Book|九月十九日|
-|HW|Writing Booklet P.5|九月十九日|
-|HW|Physics WS (Reflection)|九月十九日|
 |HW|習作簿 P.5.8 第三至四題|九月二十日|
+|HW|HWB Ex3A(10,11,12,14)|九月二十日|
 |QZ|Grammar Quiz|九月二十日|
+|QZ|(For Odd number students) Home Economics Quiz|九月二十日|
 |HW|文言練習 1.3-1.4|九月二十三日|
 |HW|Vocab Book on Sept.|九月二十三日|
 |HW|報評 (互證)|九月二十三日|
