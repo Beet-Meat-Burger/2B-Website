@@ -16,6 +16,7 @@ HW = 功課　　 Homework
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
 |HW|習作簿 P.5.8 第三至四題|九月二十日|
+|HW|中文書 P.5.8-5.9 (不用做第十題)|九月二十日|
 |HW|HWB Ex3A(10,11,12,14)|九月二十日|
 |QZ|Grammar Quiz|九月二十日|
 |QZ|(For Odd number students) Home Economics Quiz|九月二十日|
@@ -86,6 +87,6 @@ Wow.
 
 Heison: 
 I hope you know What I truly want to say.
-I think I hide it too much.
+I think I hide it too much.https://dictionary.cambridge.org/dictionary/english/trash-talk
 Look Experiment.
 -->
