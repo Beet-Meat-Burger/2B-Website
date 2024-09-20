@@ -45,3 +45,8 @@ HW = 功課　　 Homework
 |BR|Check Non-Fiction Book|九月十九日|
 |HW|Writing Booklet P.5|九月十九日|
 |HW|Physics WS (Reflection)|九月十九日|
+|HW|習作簿 P.5.8 第三至四題|九月二十日|
+|HW|中文書 P.5.8-5.9 (不用做第十題)|九月二十日|
+|HW|HWB Ex3A(10,11,12,14)|九月二十日|
+|QZ|Grammar Quiz|九月二十日|
+|QZ|(For Odd number students) Home Economics Quiz|九月二十日|
