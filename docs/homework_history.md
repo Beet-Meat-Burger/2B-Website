@@ -50,3 +50,8 @@ HW = 功課　　 Homework
 |HW|HWB Ex3A(10,11,12,14)|九月二十日|
 |QZ|Grammar Quiz|九月二十日|
 |QZ|(For Odd number students) Home Economics Quiz|九月二十日|
+|HW|文言練習 1.3-1.4|九月二十三日|
+|HW|Vocab Book on Sept.|九月二十三日|
+|HW|報評 (互證)	|九月二十三日|
+|HW|中史作業 P.8|九月二十三日|
+|HW|Chem Ex 1 Correction|九月二十三日|
