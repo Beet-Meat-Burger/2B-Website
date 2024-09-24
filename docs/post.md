@@ -73,3 +73,11 @@ Today is 12/9/2024. Today I uploaded it on 19:51, I should upload earlier. Howev
 The experiment success. No one cares me. I should stop it. If you see this, Tell me. I hope someone that cares my website that makes me think that I am not doing useless thing.
 
 If no one tell me, I will stop it on late Sept.
+
+Another day. Today is 24/9/2024. I really didn't upload it. I uploaded now, which is abou 23:00.
+
+However, no one tell me. When I remember that, I first look for someone who tell me to upload Homework list. 
+
+And the Result is now known. Nobody cares and tells me to upload it.
+
+If no one tell me anymore, I will stop it on late Sept.
