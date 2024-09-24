@@ -10,19 +10,11 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天 Day 2，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4: After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|Chem Ex 2|九月二十四日|
-|DT|背默《兵車行》|九月二十四日|
-|HW|HWB Ex3B(8ab,12,27)|九月二十四日|
-|HW|Math WB Ch.2|九月二十四日|
-|HW|HWD Ch.2|九月二十四日|
-|QZ|Math Ch.2 Quiz|九月二十四日|
-|DT|問文言詞解 1.1-1.4|九月二十五日|
-|HW|中史作業 P.9-10|九月二十五日|
 |HW|中文書 閱讀理解 P.1.25 第一至三題|九月二十六日|
 |HW|中文書 語文運用 P.1.48-1.48|九月二十七日|
 |QZ|Resource Optimisation Quiz 1|九月二十七日|

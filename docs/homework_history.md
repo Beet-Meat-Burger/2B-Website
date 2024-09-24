@@ -55,3 +55,12 @@ HW = 功課　　 Homework
 |HW|報評 (互證)	|九月二十三日|
 |HW|中史作業 P.8|九月二十三日|
 |HW|Chem Ex 1 Correction|九月二十三日|
+|HW|Chem Ex 2|九月二十四日|
+|DT|背默《兵車行》|九月二十四日|
+|HW|HWB Ex3B(8ab,12,27)|九月二十四日|
+|HW|Math WB Ch.2|九月二十四日|
+|HW|HWD Ch.2|九月二十四日|
+|QZ|Math Ch.2 Quiz|九月二十四日|
+|HW|HWC Ex3B(14,29,32)|九月二十五日|
+|HW|中史作業 P.9-10|九月二十五日|
+|HW|問文言詞解 1.1-1.4|九月二十五日|
