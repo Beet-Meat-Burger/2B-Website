@@ -15,14 +15,17 @@ HW = 功課　　 Homework
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|中文書 閱讀理解 P.1.25 第一至三題|九月二十六日|
+|HW|默書改正|九月二十六日|
+|HW|中文書 閱讀理解 P.1.25 第一至三題|九月二十七日|
 |HW|中文書 語文運用 P.1.48-1.48|九月二十七日|
 |QZ|Resource Optimisation Quiz 1|九月二十七日|
 |HW|Grammar Unit 21|九月二十七日|
+|HW|Geog Assignment 1|九月二十七日|
 |BK|2 Book Reports on Sept.|九月三十日|
 |BK|文言練習 1.5-1.6|九月三十日|
 |HW|普通話作業 認真寫 P.3-4|九月三十日|
 |QZ|Grammar Quiz|九月三十日|
+|HW|Bio Ex Ch.1|九月三十日|
 |QZ|Revision test 1|十月二日|
 |HW|文言練習 1.7-1.8|十月七日|
 |UT|Math UT1|十月九日|
