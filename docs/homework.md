@@ -13,6 +13,7 @@ HW = 功課　　 Homework
 明天 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4: After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
+
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
 |HW|默書改正|九月二十六日|
@@ -82,4 +83,7 @@ Heison:
 I hope you know What I truly want to say.
 I think I hide it too much.https://dictionary.cambridge.org/dictionary/english/trash-talk
 Look Experiment.
+
+......
+i fixed your md table preview
 -->
