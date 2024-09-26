@@ -3,9 +3,14 @@ sidebar_position: 1
 ---
 
 # Info
-<br/>Yes, a Very Normal Class
-<br/>
-<br/>L&S Google Classroom Code: ay7l7ld
+Yes, a Very Normal Class
+L&S Google Classroom Code: ay7l7ld
+
+戲如人生：
+導演：陳霆熹、方禹崴
+編劇：王駿豪
+幕後：Too many
+幕前：Unknown
 <br/>
 <h3>--------Class Association Annocement--------</h3>
 <h4>About the Class Logo and Clothes</h4>
