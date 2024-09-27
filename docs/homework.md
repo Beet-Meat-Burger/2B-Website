@@ -16,18 +16,17 @@ HW = 功課　　 Homework
 
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|中文書 閱讀理解 P.1.25 第一至三題|九月二十七日|
-|HW|中文書 語文運用 P.1.48-1.48|九月二十七日|
-|QZ|Resource Optimisation Quiz 1|九月二十七日|
-|HW|Grammar Unit 21|九月二十七日|
-|HW|Geog Assignment 1|九月二十七日|
 |BK|2 Book Reports on Sept.|九月三十日|
-|BK|文言練習 1.5-1.6|九月三十日|
+|HW|文言練習 1.5-1.6|九月三十日|
 |HW|普通話作業 認真寫 P.3-4|九月三十日|
 |QZ|Grammar Quiz|九月三十日|
 |HW|Bio Ex Ch.1|九月三十日|
+|HW|Chem Ex2 Corr|九月三十日|
+|HW|Chem Ex3|九月三十日|
 |QZ|Revision test 1|十月二日|
+|HW|中文書 閱讀理解 P.1.34 Q1-5|十月二日|
 |HW|中文書《賣柑者言》預習|十月三日|
+|HW|中文書 文言知識庫 P.2.27-2.30|十月三日|
 |HW|HWD Ch.3|十月三日|
 |HW|Maths WB Ch.3|十月三日|
 |QZ|Maths Quiz Ch.3|十月三日|

@@ -99,7 +99,7 @@ And the Result is now known. Nobody cares and tells me to upload it.
 
 If no one tell me anymore, I will stop it on late Sept.
 
-<h3>----------Replies----------</h3> 
+<h3>----------Replies-----------</h3> 
 Someome asked me: I care it. But why you stop the website?
 
 If only one person cares, why I made website? This Website is for all classmates, instead only you.

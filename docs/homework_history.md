@@ -65,3 +65,10 @@ HW = 功課　　 Homework
 |HW|中史作業 P.9-10|九月二十五日|
 |HW|問文言詞解 1.1-1.4|九月二十五日|
 |HW|默書改正|九月二十六日|
+|HW|中文書 閱讀理解 P.1.25 第一至三題|九月二十七日|
+|HW|中文書 語文運用 P.1.48-1.48|九月二十七日|
+|QZ|Resource Optimisation Quiz 1|九月二十七日|
+|HW|Grammar Unit 21|九月二十七日|
+|HW|Geog Assignment 1|九月二十七日|
+|HW|Physics Ex1 Corr|九月二十七日|
+|HW|HWA Ex2B (20,22,40)|九月二十七日|
