@@ -8,10 +8,10 @@ Yes, a Very Normal Class
 L&S Google Classroom Code: ay7l7ld
 
 戲如人生：
-導演：陳霆熹、方禹崴
-編劇：王駿豪
-幕後：Too many
-幕前：Unknown
+<br/>導演：陳霆熹、方禹崴
+<br/>編劇：王駿豪
+<br/>幕後：Too many
+<br/>幕前：Too many
 <br/>
 <h3>--------Class Association Annocement--------</h3>
 <h4>About the Class Logo and Clothes</h4>
