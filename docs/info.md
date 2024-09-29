@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # Info
+<br/>
 Yes, a Very Normal Class
 L&S Google Classroom Code: ay7l7ld
 
