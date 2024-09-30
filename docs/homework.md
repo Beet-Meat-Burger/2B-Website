@@ -10,19 +10,12 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 1，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4: After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|BK|2 Book Reports on Sept.|九月三十日|
-|HW|文言練習 1.5-1.6|九月三十日|
-|HW|普通話作業 認真寫 P.3-4|九月三十日|
-|QZ|Grammar Quiz|九月三十日|
-|HW|Bio Ex Ch.1|九月三十日|
-|HW|Chem Ex2 Corr|九月三十日|
-|HW|Chem Ex3|九月三十日|
 |QZ|Revision test 1|十月二日|
 |HW|中文書 閱讀理解 P.1.34 Q1-5|十月二日|
 |HW|中文書《賣柑者言》預習|十月三日|

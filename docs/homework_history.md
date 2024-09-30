@@ -72,3 +72,10 @@ HW = 功課　　 Homework
 |HW|Geog Assignment 1|九月二十七日|
 |HW|Physics Ex1 Corr|九月二十七日|
 |HW|HWA Ex2B (20,22,40)|九月二十七日|
+|BK|2 Book Reports on Sept.|九月三十日|
+|HW|文言練習 1.5-1.6|九月三十日|
+|HW|普通話作業 認真寫 P.3-4|九月三十日|
+|QZ|Grammar Quiz|九月三十日|
+|HW|Bio Ex Ch.1|九月三十日|
+|HW|Chem Ex2 Corr|九月三十日|
+|HW|Chem Ex3|九月三十日|
