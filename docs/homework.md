@@ -18,12 +18,24 @@ HW = 功課　　 Homework
 |--|--------|----|
 |HW|中文書《賣柑者言》預習|十月三日|
 |HW|中文書 文言知識庫 P.2.27-2.30|十月三日|
+|HW|Grammar Unit 31 Ex.1|十月三日|
+|HW|Cursive Writing Competition|十月三日|
+|HW|Parts of Speech WS Ex.4|十月三日|
 |HW|HWD Ch.3|十月三日|
 |HW|Maths WB Ch.3|十月三日|
 |QZ|Maths Quiz Ch.3|十月三日|
+|HW|HWB Ex4A(7,8,12,15,23)|十月三日|
+|HW|Math Percentage WS|十月三日|
 |HW|習作簿《爸爸的花兒落了》 P.2.17-2.18 第三至四題|十月四日|
+|HW|中文書《爸爸的花兒落了》 P.2.17-2.18 其他題目|十月四日|
 |HW|文言練習 1.7-1.8|十月七日|
+|HW|News Commentry|十月七日|
+|HW|Hist WB P.2-7|十月八日|
+|QZ|Geog Quiz 11.1-11.2|十月八日|
+|QZ|問文言詞解 ||
 |UT|Math UT1|十月九日|
+|HW|HE Quiz Corr.|十月九日|
+|HW|Bag Design|十月九日|
 |BK|中文閱讀報告 第二篇（中國文化）|十月十五日|
 |HW|Vocab Book on Oct.|十月二十一日|
 |UT|Math UT2|十月UT內|
