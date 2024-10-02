@@ -79,3 +79,7 @@ HW = 功課　　 Homework
 |HW|Bio Ex Ch.1|九月三十日|
 |HW|Chem Ex2 Corr|九月三十日|
 |HW|Chem Ex3|九月三十日|
+|QZ|Revision test 1|十月二日|
+|HW|中文書 閱讀理解 P.1.34 Q1-5|十月二日|
+|HW|HWB Ex4A(7.8.12.15.23)|十月二日|
+|HW|Parts of Speech WS Ex 3|十月二日|
