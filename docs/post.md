@@ -103,5 +103,6 @@ If no one tell me anymore, I will stop it on late Sept.
 Someome asked me: I care it. But why you stop the website?
 
 If only one person cares, why I made website? This Website is for all classmates, instead only you.
-I will only send it to you on WhatsApp or just tell to you if only you cares. 
+I will only send it to you on WhatsApp or just tell to you if only you cares. This website can make me happy, because I know that I helped others.
+
 
