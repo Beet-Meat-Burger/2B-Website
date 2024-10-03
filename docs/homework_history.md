@@ -81,5 +81,14 @@ HW = 功課　　 Homework
 |HW|Chem Ex3|九月三十日|
 |QZ|Revision test 1|十月二日|
 |HW|中文書 閱讀理解 P.1.34 Q1-5|十月二日|
-|HW|HWB Ex4A(7.8.12.15.23)|十月二日|
 |HW|Parts of Speech WS Ex 3|十月二日|
+|HW|中文書《賣柑者言》預習|十月三日|
+|HW|中文書 文言知識庫 P.2.27-2.30|十月三日|
+|HW|Grammar Unit 31 Ex.1|十月三日|
+|HW|Cursive Writing Competition|十月三日|
+|HW|Parts of Speech WS Ex.4|十月三日|
+|HW|HWD Ch.3|十月三日|
+|HW|Maths WB Ch.3|十月三日|
+|QZ|Maths Quiz Ch.3|十月三日|
+|HW|HWB Ex4A(7,8,12,15,23)|十月三日|
+|HW|Math Percentage WS|十月三日|
