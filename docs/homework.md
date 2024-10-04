@@ -10,16 +10,22 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天 Day 2，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4: After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
 |HW|文言練習 1.7-1.8|十月七日|
-|HW|News Commentry|十月七日|
+|HW|Life WB Unit 6a,6b|十月七日|
+|HW|Grammar Unit 21|十月七日|
+|DT|Parts Of Speech Dict Ex.4 First Page|十月七日|
+|HW|HWA Ex4B (3,4,9,10,12)|十月七日|
+|HW|Parts Of Speech Dict Ex.4 Second Page|十月八日|
 |HW|Hist WB P.2-7|十月八日|
 |QZ|Geog Quiz 11.1-11.2|十月八日|
+|HW|Geog Assignment 2|十月八日|
+|HW|Bio Ex. Bk. P.6-7|十月八日|
 |QZ|問文言詞解|十月九日|
 |QZ|Grammar Quiz|十月九日|
 |UT|Math UT1|十月九日|
