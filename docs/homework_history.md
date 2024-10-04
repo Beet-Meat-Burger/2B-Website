@@ -92,3 +92,8 @@ HW = 功課　　 Homework
 |QZ|Maths Quiz Ch.3|十月三日|
 |HW|HWB Ex4A(7,8,12,15,23)|十月三日|
 |HW|Math Percentage WS|十月三日|
+|HW|習作簿《爸爸的花兒落了》 P.2.17-2.18 第三至四題|十月四日|
+|HW|中文書《爸爸的花兒落了》 P.2.17-2.18 其他題目|十月四日|
+|HW|Parts Of Speech WS|十月四日|
+|HW|HWC Ex4A (21,25,26,31,32b)|十月四日|
+|HW|中史工作紙 政治漫畫|十月四日|
