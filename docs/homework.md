@@ -32,12 +32,16 @@ HW = 功課　　 Homework
 |HW|HE Quiz Corr.|十月九日|
 |HW|Bag Design|十月九日|
 |HW|閱讀理解 P.2.44 第二至四題|十月十日|
+|HW|中史作業 P.11-13, 18|十月十日|
+|HW|News Commentry|十月十日|
+|PJ|Beatbox|十月十日|
 |BK|中文閱讀報告 第二篇（中國文化）|十月十五日|
 |HW|中文書 語文運用 P.2.46-2.47|十月十八日|
 |HW|Vocab Book on Oct.|十月二十一日|
 |UT|Math UT2|十月UT內|
 |HW|文言練習 2.1-2.2|十月二十八日|
 |BK|2 Book Reports on Oct.|十月三十一日|
+|PJ|Acapella|十月三十一日|
 |HW|文言練習 2.3-2.4|十一月四日|
 |BK|中文篇章報告 《老屋》|十一月五日|
 |HW|文言練習 2.5-2.6|十一月十一日|
