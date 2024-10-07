@@ -97,3 +97,8 @@ HW = 功課　　 Homework
 |HW|Parts Of Speech WS|十月四日|
 |HW|HWC Ex4A (21,25,26,31,32b)|十月四日|
 |HW|中史工作紙 政治漫畫|十月四日|
+|HW|文言練習 1.7-1.8|十月七日|
+|HW|Life WB Unit 6a,6b|十月七日|
+|HW|Grammar Unit 21|十月七日|
+|DT|Parts Of Speech Dict Ex.4 First Page|十月七日|
+|HW|HWA Ex4B (3,4,9,10,12)|十月七日|
