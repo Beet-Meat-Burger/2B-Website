@@ -102,3 +102,14 @@ HW = 功課　　 Homework
 |HW|Grammar Unit 21|十月七日|
 |DT|Parts Of Speech Dict Ex.4 First Page|十月七日|
 |HW|HWA Ex4B (3,4,9,10,12)|十月七日|
+|DT|Parts Of Speech Dict Ex.4 Second Page|十月八日|
+|HW|Parts Of Speech Dict Ex.4 First Page Corr.|十月八日|
+|HW|HWB Ex4B(18,19,20)|十月八日|
+|HW|HWB Ex4C(4,6,8,17,18)|十月八日|
+|HW|Ch.3 Quiz Corr|十月八日|
+|HW|Hist WB P.2-7|十月八日|
+|QZ|Geog Quiz 11.1-11.2|十月八日|
+|HW|Geog Assignment 2|十月八日|
+|HW|Phy WS Ex.3|十月八日|
+|HW|Phy WS Ex.2 Corr|十月八日|
+|HW|Bio Ex. Bk. P.6-7|十月八日|
