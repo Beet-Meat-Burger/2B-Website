@@ -23,12 +23,6 @@ HW = 功課　　 Homework
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|QZ|問文言詞解|十月九日|
-|QZ|Grammar Quiz|十月九日|
-|UT|Math UT1|十月九日|
-|HW|HWC Ex4D (5,7,10,12)|十月九日|
-|HW|HE Quiz Corr.|十月九日|
-|HW|Bag Design|十月九日|
 |HW|閱讀理解 P.2.44 第二至四題|十月十日|
 |HW|中史作業 P.11-13, 18|十月十日|
 |HW|News Commentry|十月十日|

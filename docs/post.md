@@ -105,4 +105,13 @@ Someome asked me: I care it. But why you stop the website?
 If only one person cares, why I made website? This Website is for all classmates, instead only you.
 I will only send it to you on WhatsApp or just tell to you if only you cares. This website can make me happy, because I know that I helped others.
 
-
+Someone in 3A told me:
+ 
+'My class teacher said stop the Homework list after January.'
+'Why?'
+'As he said the student too dependent on homework list.'
+'How did he know?'
+'Teacher is in that Homework list group.'
+'Why this happen? I think you should tell the maker to make a group without teacher for homework list.'
+In my opinion, homework list is a good thing. Moreover, if they still know what homework without it, it is good. Homework list is a supporting tool. I don't know why teacher is in the homework list group, but I am sure that is good without teacher.
+In 3B, I think also 3C, teacher may not know the homework list. It is not bad, as it has no problem in common sense. So, I think you should continue without teacher. That's all

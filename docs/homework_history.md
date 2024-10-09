@@ -113,3 +113,10 @@ HW = 功課　　 Homework
 |HW|Phy WS Ex.3|十月八日|
 |HW|Phy WS Ex.2 Corr|十月八日|
 |HW|Bio Ex. Bk. P.6-7|十月八日|
+|QZ|Computer Quiz|十月九日|
+|QZ|問文言詞解|十月九日|
+|QZ|Grammar Quiz|十月九日|
+|UT|Math UT1|十月九日|
+|HW|HWC Ex4D (5,7,10,12)|十月九日|
+|HW|HE Quiz Corr.|十月九日|
+|HW|Bag Design|十月九日|
