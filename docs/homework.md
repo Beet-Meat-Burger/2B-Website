@@ -10,7 +10,7 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天 Day 6，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 3，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4: After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>
@@ -23,11 +23,10 @@ HW = 功課　　 Homework
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|性教育及醫療美容練習|十月十四日|
-|HW|中文 UT Past Paper 改正|十月十四日|
-|HW|HWA Ex4D (14,17,19,21)|十月十四日|
 |BK|中文閱讀報告 第二篇（中國文化）|十月十五日|
 |HW|中史作業 P.19 第一題|十月十五日|
+|HW|Salaries Tax WS 2|十月十五日|
+|HW|習作簿 改正|十月十五日|
 |HW|Grammar Unit 16|十月十七日|
 |HW|Math Ch.4 Quiz|十月十七日|
 |HW|Hist Quiz Corr.|十月十七日|

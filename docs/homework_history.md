@@ -125,3 +125,6 @@ HW = 功課　　 Homework
 |HW|News Commentry|十月十日|
 |PJ|Beatbox|十月十日|
 |HW|Experiment 3.1,3.2 WS|十月十日|
+|HW|性教育及醫療美容練習|十月十四日|
+|HW|中文 UT Past Paper 改正|十月十四日|
+|HW|HWA Ex4D (14,17,19,21)|十月十四日|
