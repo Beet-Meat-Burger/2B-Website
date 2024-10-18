@@ -133,4 +133,14 @@ HW = 功課　　 Homework
 |HW|Salaries Tax WS 2|十月十五日|
 |HW|習作簿 改正|十月十五日|
 |HW|Maths UT1 Corr|十月十六日|
-||||
+|HW|中文書語文運用 P.2.46-2.47|十月十七日|
+|HW|Grammar Unit 16|十月十七日|
+|HW|Math Ch.4 Quiz|十月十七日|
+|HW|Hist Quiz Corr.|十月十七日|
+|HW|RO Ex.2|十月十七日|
+|HW|HWD Ch.4|十月十八日|
+|HW|Math WB Ch.4|十月十八日|
+|HW|中文書 語文運用 P.2.46-2.47|十月十八日|
+|HW|HWC Ex5A (6,10,11)|十月十八日|
+|HW|HWC Ex5A (18,20,21)|十月十八日|
+|HW|Experiment WS 3.1,3.2 Corr|十月十八日|

@@ -23,14 +23,6 @@ HW = 功課　　 Homework
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|中文書語文運用 P.2.46-2.47|十月十七日|
-|HW|Grammar Unit 16|十月十七日|
-|HW|Math Ch.4 Quiz|十月十七日|
-|HW|Hist Quiz Corr.|十月十七日|
-|HW|RO Ex.2|十月十七日|
-|HW|HWD Ch.4|十月十八日|
-|HW|Math WB Ch.4|十月十八日|
-|HW|中文書 語文運用 P.2.46-2.47|十月十八日|
 |HW|Vocab Book on Oct.|十月二十一日|
 |UT|Math UT2|十月UT內|
 |HW|文言練習 2.1-2.2|十月二十八日|
