@@ -10,7 +10,7 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天 Day 3，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 2，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4: After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>
@@ -23,9 +23,8 @@ HW = 功課　　 Homework
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|Vocab Book on Oct.|十月二十一日|
-|UT|Math UT2|十月UT內|
 |HW|文言練習 2.1-2.2|十月二十八日|
+|HW|Vocab Book On Oct. (20 Words)|十月二十八日|
 |BK|2 Book Reports on Oct.|十月三十一日|
 |PJ|Acapella|十月三十一日|
 |HW|文言練習 2.3-2.4|十一月四日|
