@@ -14,13 +14,6 @@ HW = 功課　　 Homework
 <br/>Resource Optimisation Quiz 2 and 4: After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>
-<h3>UT 早一星期開考，詳情如下：</h3>
-該幾天都係正常上堂，不過第一堂轉咗做UT。
-<br/>十月十六日：西史
-<br/>十月十七日：物理
-<br/>十月十八日：中史
-<br/>十月廿一日：生活與社會
-<br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
 |DT|堂上背《賣柑者言》一至二段|十月二十九日|
