@@ -148,3 +148,4 @@ HW = 功課　　 Homework
 |HW|Vocab Book On Oct. (20 Words)|十月二十八日|
 |HW|HWD Ch.4|十月二十八日|
 |HW|Maths WB Ch.4|十月二十八日|
+|DT|堂上背《賣柑者言》一至二段|十月二十九日|
