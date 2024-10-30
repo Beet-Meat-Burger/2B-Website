@@ -149,3 +149,7 @@ HW = 功課　　 Homework
 |HW|HWD Ch.4|十月二十八日|
 |HW|Maths WB Ch.4|十月二十八日|
 |DT|堂上背《賣柑者言》一至二段|十月二十九日|
+|DT|堂上背《賣柑者言》三至四段|十月三十日|
+|HW|中文書《賣柑者言》P.5.16-5.18|十月三十日|
+|PJ|Acapella|十月三十日|
+|HW|Maths UT2 Corr. (With Test File)|十月三十日|
