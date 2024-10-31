@@ -153,3 +153,6 @@ HW = 功課　　 Homework
 |HW|中文書《賣柑者言》P.5.16-5.18|十月三十日|
 |PJ|Acapella|十月三十日|
 |HW|Maths UT2 Corr. (With Test File)|十月三十日|
+|BK|2 Book Reports on Oct.|十月三十一日|
+|DT|背默《賣柑者言》3-4 段|十月三十一日|
+|HW|HWA Ex5B (4,5,6,14,16,17)|十月三十一日|
