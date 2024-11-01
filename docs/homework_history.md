@@ -156,3 +156,6 @@ HW = 功課　　 Homework
 |BK|2 Book Reports on Oct.|十月三十一日|
 |DT|背默《賣柑者言》3-4 段|十月三十一日|
 |HW|HWA Ex5B (4,5,6,14,16,17)|十月三十一日|
+|HW|中文 UT 改正|十一月一日|
+|HW|Additional Writing Corrections|十一月一日|
+|HW|HWB Ex5C (3,12,22)|十一月一日|
