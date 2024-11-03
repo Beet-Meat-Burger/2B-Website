@@ -10,7 +10,7 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天 Day 3，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 1，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4: After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>
@@ -24,7 +24,9 @@ HW = 功課　　 Homework
 |HW|Chem Ex4|十一月四日|
 |BK|中文篇章報告 《老屋》|十一月五日|
 |DT|堂上問文言詞解 2.1-2.4|十一月六日|
+|HW|Grammar Unit 14|十一月六日|
 |HW|閱讀理解《人跡與自然》|十一月七日|
+|HW|Acapella (For Other Groups)|十一月七日|
 |HW|文言練習 2.5-2.6|十一月十一日|
 |HW|文言練習 2.7-2.8|十一月十八日|
 |QZ|Grammar Quiz (Passive Voice)|十一月二十二日|
