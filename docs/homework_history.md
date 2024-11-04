@@ -159,3 +159,9 @@ HW = 功課　　 Homework
 |HW|中文 UT 改正|十一月一日|
 |HW|Additional Writing Corrections|十一月一日|
 |HW|HWB Ex5C (3,12,22)|十一月一日|
+|HW|作文大綱|十一月四日|
+|HW|默書改正|十一月四日|
+|HW|文言練習 2.3-2.4|十一月四日|
+|HW|HWC Ex3C (6,17,18)|十一月四日|
+|HW|Chem UT Corr.|十一月四日|
+|HW|Chem Ex4|十一月四日|
