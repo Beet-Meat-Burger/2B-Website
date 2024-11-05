@@ -165,3 +165,6 @@ HW = 功課　　 Homework
 |HW|HWC Ex3C (6,17,18)|十一月四日|
 |HW|Chem UT Corr.|十一月四日|
 |HW|Chem Ex4|十一月四日|
+|HW|中文作文 (今晚交上 GG Classroom)|十一月五日|
+|HW|器官捐贈|十一月五日|
+|HW|HWA (For who didn't submit today|十一月五日|
