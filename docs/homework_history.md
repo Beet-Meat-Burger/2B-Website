@@ -168,3 +168,7 @@ HW = 功課　　 Homework
 |HW|中文作文 (今晚交上 GG Classroom)|十一月五日|
 |HW|器官捐贈|十一月五日|
 |HW|HWA (For who didn't submit today|十一月五日|
+|DT|堂上問文言詞解 2.1-2.4|十一月六日|
+|HW|Grammar Unit 14|十一月六日|
+|HW|中史作業 P.20-22,26|十一月六日|
+|BK|中文篇章報告 《老屋》|十一月六日|
