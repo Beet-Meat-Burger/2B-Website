@@ -17,7 +17,8 @@ HW = 功課　　 Homework
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
 |HW|閱讀理解《人跡與自然》|十一月七日|
-|HW|Acapella (For Other Groups)|十一月七日|
+|HW|HWC Ex5D (9,12,15,18)|十一月七日|
+|PJ|Acapella (For Other Groups)|十一月七日|
 |DT|堂上背《歸園田居》|十一月八日|
 |DT|Irregular Verbs Dict|十一月八日|
 |HW|背默《歸園田居》|十一月十一日|
