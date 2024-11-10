@@ -172,3 +172,8 @@ HW = 功課　　 Homework
 |HW|Grammar Unit 14|十一月六日|
 |HW|中史作業 P.20-22,26|十一月六日|
 |BK|中文篇章報告 《老屋》|十一月六日|
+|HW|閱讀理解《人跡與自然》|十一月七日|
+|HW|HWC Ex5D (9,12,15,18)|十一月七日|
+|PJ|Acapella (For Other Groups)|十一月七日|
+|DT|堂上背《歸園田居》|十一月八日|
+|DT|Irregular Verbs Dict|十一月八日|

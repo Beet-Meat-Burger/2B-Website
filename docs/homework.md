@@ -10,21 +10,20 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 6，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4: After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|閱讀理解《人跡與自然》|十一月七日|
-|HW|HWC Ex5D (9,12,15,18)|十一月七日|
-|PJ|Acapella (For Other Groups)|十一月七日|
-|DT|堂上背《歸園田居》|十一月八日|
-|DT|Irregular Verbs Dict|十一月八日|
-|HW|背默《歸園田居》|十一月十一日|
+|DT|背默《歸園田居》|十一月十一日|
 |HW|《歸園田居》習作|十一月十一日|
 |HW|文言練習 2.5-2.6|十一月十一日|
+|HW|HWA Ex5E (4,12,15)|十一月十一日|
+|HW|Bio Ex P.10-11|十一月十一日|
+|DT|Bullying Words Dict|十一月十一日|
 |HW|Grammar Unit 2|十一月十二日|
+|HW|中史作業 P.23-25,27|十一月十二日|
 |HW|閱讀理解《鈷鉧漂記》Q 4-5|十一月十八日|
 |HW|文言練習 2.7-2.8|十一月十八日|
 |HW|中文書《水調歌頭》預習|十一月十八日|
