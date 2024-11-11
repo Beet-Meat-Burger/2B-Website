@@ -1,13 +1,12 @@
 ---
-sidebar_position: 1
----
+sidebar_position: 17^_^
 
 # Info
 <br/>
 Yes, a Very Normal Class
 L&S Google Classroom Code: ay7l7ld
 
-戲如人生：
+戲如人生
 <br/>導演：陳霆熹、方禹崴
 <br/>編劇：王駿豪
 <br/>幕後：Too many
@@ -27,4 +26,4 @@ As the Class Association need to buy material for the board design and also orga
 The Class Association have decided to hold a Christmas party after the end of TQ, for around 2 hours. We sincerely you all can attend as it is an important activity of our class. Routine will be provided in this two days. If you do not want to participate or cannot attend, please dm any member of the Class Association. Thank you.
 <br/>
 <h4>Providing Foolscap Paper</h4>
-Since classmate sometimes need to use foolscap papers or draft papers, the Class Association decided to provide them at price of 1 HKD each 5 papers. If you are concerned about the price, please dm the financial secretary i.e. me or other members of the Class Association. Thank you.
+Since classmate sometimes need to use foolscap papers or draft papers, the Class Association decided to provide them at price of 1 HKD each 5 papers. If you are concerned about the price, please dm the financial secretary i.e. me or other members of the Class Association. Thank you.  大聲啲   

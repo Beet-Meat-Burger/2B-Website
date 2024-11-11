@@ -177,3 +177,9 @@ HW = 功課　　 Homework
 |PJ|Acapella (For Other Groups)|十一月七日|
 |DT|堂上背《歸園田居》|十一月八日|
 |DT|Irregular Verbs Dict|十一月八日|
+|DT|背默《歸園田居》|十一月十一日|
+|HW|《歸園田居》習作|十一月十一日|
+|HW|文言練習 2.5-2.6|十一月十一日|
+|HW|HWA Ex5E (4,12,15)|十一月十一日|
+|HW|Bio Ex P.10-11|十一月十一日|
+|DT|Bullying Words Dict|十一月十一日|
