@@ -35,10 +35,12 @@ HW = 功課　　 Homework
 |UT|Math UT3|十二月二日|
 |HW|文言練習 3.3-3.4|十二月二日|
 |BK|中文閱讀報告 第三篇|十二月三日|
+|PJ|Class Talk Show Performance|十二月三日|
 |TS|中史小測 上學期|十二月五日|
 |QZ|Resource Optimisation Quiz 2|十二月六日|
 |HW|文言練習 3.5-3.6|十二月十日|
 |HW|文言練習 3.7-3.8|十二月十六日|
+|PJ|Hall Talk Show Performance|十二月十八日|
 |HW|2 Book Reports on Dec.|十二月二十日|
 |HW|文言練習 4.1-4.2|一月二十七日|
 |BK|中文閱讀報告 第四篇|二月十日|
