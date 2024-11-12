@@ -183,3 +183,8 @@ HW = 功課　　 Homework
 |HW|HWA Ex5E (4,12,15)|十一月十一日|
 |HW|Bio Ex P.10-11|十一月十一日|
 |DT|Bullying Words Dict|十一月十一日|
+|HW|Grammar Unit 2|十一月十二日|
+|HW|中史作業 P.23-25,27|十一月十二日|
+|DT|背默《歸園田居》|十一月十二日|
+|HW|中文書 語文運用 P.3.42-3.43|十一月十二日|
+|HW|HWB Ex5E (16,19)|十一月十二日|
