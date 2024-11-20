@@ -10,7 +10,7 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天 Day 5，三堂 Chem，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 5，三堂 Chem Lesson，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Resource Optimisation Quiz 2 and 4： After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>
