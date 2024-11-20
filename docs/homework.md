@@ -10,19 +10,24 @@ HW = 功課　　 Homework
 <br/>TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天 Day 2，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
-<br/>Resource Optimisation Quiz 2 and 4: After School
+明天 Day 5，三堂 Chem，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+<br/>Resource Optimisation Quiz 2 and 4： After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|閱讀理解《鈷鉧漂記》Q4-5|十一月十八日|
-|HW|文言練習 2.7-2.8|十一月十八日|
-|HW|中文書《水調歌頭》預習|十一月十九日|
-|HW|堂上問文言詞解 2.5-2.8|十一月二十日|
 |HW|《歸園田居》課後練習工作紙|十一月二十一日|
+|HW|Hist Revision Test Corr.|十一月二十一日|
+|HW|Phy HW6|十一月二十一日|
+|HW|HWA Ex6A (4,5,17,19)|十一月二十一日|
 |QZ|Grammar Quiz (Passive Voice)|十一月二十二日|
+|HW|中文書 文言知識庫 P.3.13-3.15|十一月二十二日|
+|HW|普通話作業 P.10-11|十一月二十二日|
+|QZ|Maths Ch.5 Quiz|十一月二十五日|
 |HW|文言練習 3.1-3.2|十一月二十五日|
+|HW|中文書 《天淨沙》預習|十一月二十五日|
+|HW|Bullying Respond WS|十一月二十五日|
+|HW|中史作業 P.30|十一月二十五日|
 |BK|中史書評|十一月二十九日|
 |QZ|普通話小測 上學期|十一月二十九日|
 |BK|2 Book reports on Nov.|十一月二十九日|
