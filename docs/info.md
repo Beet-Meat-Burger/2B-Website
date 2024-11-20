@@ -1,6 +1,7 @@
 ---
-sidebar_position: 17^_^
+sidebar_position: 1
 ---
+
 # Info
 <br/>
 Yes, a Very Normal Class
@@ -16,8 +17,8 @@ L&S Google Classroom Code: ay7l7ld
 <h4>About the Class Logo and Clothes</h4>
 17/9 End of Class Logo design submission and form of Class Clothes voting
 <br/>15/10 End of Class Clothes design submission 
-<br/>Note 1: The vote will be ended today, more votes of different options will be held.
-<br/>Note 2: To submit designs, dm any member of the Class Association
+<br/>Note 1：The vote will be ended today, more votes of different options will be held.
+<br/>Note 2：To submit designs, dm any member of the Class Association
 <br/>
 <h4>Class Association Fee</h4>
 As the Class Association need to buy material for the board design and also organise the coming activities, we decided to collect 15 HKD per person. The deadline will be 30/9/2024. Thank you.
@@ -26,4 +27,4 @@ As the Class Association need to buy material for the board design and also orga
 The Class Association have decided to hold a Christmas party after the end of TQ, for around 2 hours. We sincerely you all can attend as it is an important activity of our class. Routine will be provided in this two days. If you do not want to participate or cannot attend, please dm any member of the Class Association. Thank you.
 <br/>
 <h4>Providing Foolscap Paper</h4>
-Since classmate sometimes need to use foolscap papers or draft papers, the Class Association decided to provide them at price of 1 HKD each 5 papers. If you are concerned about the price, please dm the financial secretary i.e. me or other members of the Class Association. Thank you.  大聲啲   
+Since classmate sometimes need to use foolscap papers or draft papers, the Class Association decided to provide them at price of 1 HKD each 5 papers. If you are concerned about the price, please dm the financial secretary i.e. me or other members of the Class Association. Thank you. 

@@ -1,5 +1,5 @@
 # Homework List
-<h3>類別 Type:</h3>
+<h3>類別 Type：</h3>
 HW = 功課　　 Homework
 <br/>BK = 閱讀報告 Book Report
 <br/>PJ = 專題研習  Project
