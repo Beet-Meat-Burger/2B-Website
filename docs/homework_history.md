@@ -195,3 +195,12 @@ HW = 功課　　 Homework
 |HW|中史作業 P.24,28-29|十一月十九日|
 |HW|堂上問文言詞解 2.5-2.8|十一月二十日|
 |HW|HWC Ex5F (15,17,20)|十一月二十日|
+|HW|《歸園田居》課後練習工作紙|十一月二十一日|
+|HW|Hist Revision Test Corr.|十一月二十一日|
+|HW|Phy HW6|十一月二十一日|
+|HW|HWA Ex6A (4,5,17,19)|十一月二十一日|
+|QZ|Grammar Quiz (Passive Voice)|十一月二十二日|
+|HW|中文書 文言知識庫 P.3.13-3.15|十一月二十二日|
+|HW|普通話作業 P.10-11|十一月二十二日|
+|HW|Chem File + Ex4 Corr.|十一月二十二日|
+|HW|Grammar Unit 27|十一月二十二日|
