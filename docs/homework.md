@@ -1,13 +1,12 @@
 # Homework List
 <h3>類別 Type：</h3>
-HW = 功課　　 Homework
-<br/>BK = 閱讀報告 Book Report
-<br/>PJ = 專題研習  Project
-<br/>PS = 演講　　 Presentation
-<br/>SP = 說話　　 Speaking
-<br/>DT = 默書　　 Dictation
-<br/>QZ = 小測　　 Quiz
-<br/>TS = 測驗　　 Tests
+*   HW = 功課　　 Homework
+*   BK = 閱讀報告 Book Report
+*   PS = 演講　　 Presentation
+*   SP = 說話　　 Speaking
+*   DT = 默書　　 Dictation
+*   QZ = 小測　　 Quiz
+*   TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
 明天 Day 1，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
