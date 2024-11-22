@@ -21,10 +21,12 @@ HW = 功課　　 Homework
 |HW|中文書 《天淨沙》預習|十一月二十五日|
 |HW|Bullying Respond WS|十一月二十五日|
 |HW|中史作業 P.30|十一月二十五日|
+|HW|HWB Ex6A (12,14,20,21)|十一月二十五日|
+|BK|2 Book Reports on November|十一月二十五日|
 |DT|背默《水調歌頭》|十一月二十六日|
 |BK|中史書評|十一月二十九日|
 |QZ|普通話小測 上學期|十一月二十九日|
-|BK|2 Book reports on Nov.|十一月二十九日|
+|BK|Vocab Book on November|十一月二十九日|
 |QZ|Grammar Quiz|十二月二日|
 |UT|Math UT3|十二月二日|
 |HW|文言練習 3.3-3.4|十二月二日|
