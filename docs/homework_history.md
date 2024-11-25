@@ -204,3 +204,10 @@ HW = 功課　　 Homework
 |HW|普通話作業 P.10-11|十一月二十二日|
 |HW|Chem File + Ex4 Corr.|十一月二十二日|
 |HW|Grammar Unit 27|十一月二十二日|
+|QZ|Maths Ch.5 Quiz|十一月二十五日|
+|HW|文言練習 3.1-3.2|十一月二十五日|
+|HW|中文書 《天淨沙》預習|十一月二十五日|
+|HW|Bullying Respond WS|十一月二十五日|
+|HW|中史作業 P.30|十一月二十五日|
+|HW|HWB Ex6A (12,14,20,21)|十一月二十五日|
+|BK|2 Book Reports on November|十一月二十五日|
