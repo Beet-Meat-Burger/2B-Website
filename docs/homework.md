@@ -9,15 +9,16 @@
 *   TS = 測驗　　 Tests
 <br/>
 <br/><h3>速報： </h3>
-明天 Day 2，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+<br/>Day 5 has TWO Math Lessons
 <br/>Resource Optimisation Quiz 2 and 4： After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|HW|中史作業 P.31|十一月二十七日|
 |DT|背默《水調歌頭》|十一月二十八日|
 |DT|背默《天淨沙》|十一月二十八日|
+|HW|HWC Ex6B (6,7,18)|十一月二十八日|
 |BK|中史書評|十一月二十九日|
 |QZ|普通話小測 上學期|十一月二十九日|
 |BK|Vocab Book on November|十一月二十九日|
