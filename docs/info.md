@@ -4,8 +4,8 @@ sidebar_position: 1
 
 # Info
 <br/>
-Yes, a Very Normal Class
-L&S Google Classroom Code: ay7l7ld
+<br/>Yes, a Very Normal Class
+<br/>L&S Google Classroom Code: ay7l7ld
 
 <br/>戲如人生
 <br/>導演：陳霆熹、方禹崴
