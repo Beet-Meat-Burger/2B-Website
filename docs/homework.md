@@ -2,27 +2,33 @@
 <h3>類別 Type：</h3>
 *   HW = 功課　　 Homework
 *   BK = 閱讀報告 Book Report
+*   PJ = 專題研習 Project
 *   PS = 演講　　 Presentation
 *   SP = 說話　　 Speaking
 *   DT = 默書　　 Dictation
 *   QZ = 小測　　 Quiz
 *   TS = 測驗　　 Tests
 <br/>
-<br/><h3>速報： </h3>
-明天 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+<br/>
+<h3>速報： </h3>
+明天 Day 5，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/>Day 5 has TWO Math Lessons
-<br/>Resource Optimisation Quiz 2 and 4： After School
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
+<h4>Resource Optimisation Quiz:</h4>  
+<br/>Quiz 2： At Lunch 
+<br/>Quiz 4： After School
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|DT|背默《水調歌頭》|十一月二十八日|
-|DT|背默《天淨沙》|十一月二十八日|
-|HW|HWC Ex6B (6,7,18)|十一月二十八日|
 |BK|中史書評|十一月二十九日|
 |QZ|普通話小測 上學期|十一月二十九日|
-|BK|Vocab Book on November|十一月二十九日|
-|PS|Interpretative Reading|十一月三十日|
+|HW|Life Textbook P.50 + WS|十一月二十九日|
+|HW|Vocab Book on November|十一月二十九日|
+|HW|Math Ch.5 Quiz Corr. (With File)|十一月二十九日|
+|HW|HWA Ex6B (13,16,22)|十一月二十九日|
+|HW|Phy HW7|十一月二十九日|
+|HW|Phy HW5 and HW6 Corr.|十一月二十九日|
+|SP|Interpretative Reading|十一月三十日|
 |QZ|Grammar Quiz|十二月二日|
 |UT|Math UT3|十二月二日|
 |PS|普通話個人短講|十二月二日|

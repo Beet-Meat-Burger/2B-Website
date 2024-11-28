@@ -1,13 +1,13 @@
 # Homework History
 <h3>類別 Type：</h3>
-HW = 功課　　 Homework
-<br/>BK = 閱讀報告 Book Report
-<br/>PJ = 專題研習 Project
-<br/>PS = 演講　　 Presentation
-<br/>SP = 說話　　 Speaking
-<br/>DT = 默書　　 Dictation
-<br/>QZ = 小測　　 Quiz
-<br/>TS = 測驗　　 Tests
+*   HW = 功課　　 Homework
+*   BK = 閱讀報告 Book Report
+*   PJ = 專題研習 Project
+*   PS = 演講　　 Presentation
+*   SP = 說話　　 Speaking
+*   DT = 默書　　 Dictation
+*   QZ = 小測　　 Quiz
+*   TS = 測驗　　 Tests
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
@@ -167,7 +167,7 @@ HW = 功課　　 Homework
 |HW|Chem Ex4|十一月四日|
 |HW|中文作文 (今晚交上 GG Classroom)|十一月五日|
 |HW|器官捐贈|十一月五日|
-|HW|HWA (For who didn't submit today|十一月五日|
+|HW|HWA (For who didn't submit today)|十一月五日|
 |DT|堂上問文言詞解 2.1-2.4|十一月六日|
 |HW|Grammar Unit 14|十一月六日|
 |HW|中史作業 P.20-22,26|十一月六日|
@@ -213,3 +213,7 @@ HW = 功課　　 Homework
 |BK|2 Book Reports on November|十一月二十五日|
 |DT|堂上背《水調歌頭》|十一月二十六日|
 |HW|中史作業 P.31|十一月二十七日|
+|DT|背默《水調歌頭》|十一月二十八日|
+|DT|背默《天淨沙》|十一月二十八日|
+|HW|HWC Ex6B (6,7,18)|十一月二十八日|
+|HW|Grammar Unit 11|十一月二十八日|
