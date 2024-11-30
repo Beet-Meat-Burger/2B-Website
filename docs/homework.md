@@ -20,29 +20,29 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|BK|中史書評|十一月二十九日|
-|QZ|普通話小測 上學期|十一月二十九日|
-|HW|Life Textbook P.50 + WS|十一月二十九日|
-|HW|Vocab Book on November|十一月二十九日|
-|HW|Math Ch.5 Quiz Corr. (With File)|十一月二十九日|
-|HW|HWA Ex6B (13,16,22)|十一月二十九日|
-|HW|Phy HW7|十一月二十九日|
-|HW|Phy HW5 and HW6 Corr.|十一月二十九日|
-|SP|Interpretative Reading|十一月三十日|
 |QZ|Grammar Quiz|十二月二日|
 |UT|Math UT3|十二月二日|
 |PS|普通話個人短講|十二月二日|
 |HW|文言練習 3.3-3.4|十二月二日|
+|HW|閱讀理解 《虞美人》第三、五題|十二月二日|
+|HW|中文默書改正|十二月二日|
 |BK|中文閱讀報告 第三篇|十二月三日|
-|PJ|Class Talk Show Performance|十二月三日|
+|HW|Grammar Unit 28|十二月三日|
 |TS|中史小測 上學期|十二月五日|
+|QZ|Geog Quiz|十二月五日|
 |HW|《水調歌頭》習作簿|十二月五日|
 |HW|《天淨沙》習作簿|十二月五日|
 |HW|《水調歌頭》課後練習|十二月五日|
+|HW|Bio Ex.3.3-3.4|十二月五日|
 |QZ|Resource Optimisation Quiz 2|十二月六日|
+|DT|成語小測 P.421-455|十二月六日|
+|QZ|Music Quiz|十二月六日|
 |HW|閱讀理解 《滿江紅》第三至八題|十二月十六日|
 |HW|文言練習 3.5-3.6|十二月十六日|
 |HW|文言練習 3.7-3.8|十二月十六日|
+|PJ|Class Talk Show Performance|十二月十六日|
+|QZ|成語小測 P.456-491|十二月十七日|
+|TS|FM Exam|十二月十七日|
 |PJ|Hall Talk Show Performance|十二月十八日|
 |DT|堂上問文言詞解 3.5-3.8|十二月十八日|
 |QZ|文言詞解小測 2.1-3.8|十二月十九日|

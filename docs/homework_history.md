@@ -217,3 +217,12 @@
 |DT|背默《天淨沙》|十一月二十八日|
 |HW|HWC Ex6B (6,7,18)|十一月二十八日|
 |HW|Grammar Unit 11|十一月二十八日|
+|BK|中史書評|十一月二十九日|
+|QZ|普通話小測 上學期|十一月二十九日|
+|HW|Life Textbook P.50 + WS|十一月二十九日|
+|HW|Vocab Book on November|十一月二十九日|
+|HW|Math Ch.5 Quiz Corr. (With File)|十一月二十九日|
+|HW|HWA Ex6B (13,16,22)|十一月二十九日|
+|HW|Phy HW7|十一月二十九日|
+|HW|Phy HW5 and HW6 Corr.|十一月二十九日|
+|SP|Interpretative Reading|十一月三十日|
