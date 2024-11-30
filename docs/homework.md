@@ -1,13 +1,13 @@
 # Homework List
 <h3>類別 Type：</h3>
-*   HW = 功課　　 Homework
-*   BK = 閱讀報告 Book Report
-*   PJ = 專題研習 Project
-*   PS = 演講　　 Presentation
-*   SP = 說話　　 Speaking
-*   DT = 默書　　 Dictation
-*   QZ = 小測　　 Quiz
-*   TS = 測驗　　 Tests
+*   HW = 功課　　   Homework
+*   BK = 閱讀報告  Book Report
+*   PJ = 專題研習  Project
+*   PS = 演講　　  Presentation
+*   SP = 說話　　  Speaking
+*   DT = 默書　　  Dictation
+*   QZ = 小測　　  Quiz
+*   TS = 測驗　　  Tests
 <br/>
 <br/>
 <h3>速報： </h3>
