@@ -226,3 +226,9 @@
 |HW|Phy HW7|十一月二十九日|
 |HW|Phy HW5 and HW6 Corr.|十一月二十九日|
 |SP|Interpretative Reading|十一月三十日|
+|QZ|Grammar Quiz|十二月二日|
+|UT|Math UT3|十二月二日|
+|PS|普通話個人短講|十二月二日|
+|HW|文言練習 3.3-3.4|十二月二日|
+|HW|閱讀理解 《虞美人》第三、五題|十二月二日|
+|HW|中文默書改正|十二月二日|
