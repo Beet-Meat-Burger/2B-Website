@@ -11,30 +11,32 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 5，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
-<br/>Day 5 has TWO Math Lessons
+明天 Day 3，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 2： At Lunch 
 <br/>Quiz 4： After School
 <br/>
+
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗： |
 |--|--------|----|
-|DT|堂上問詞解 3.1-3.4|十二月四日|
-|TS|中史小測 上學期|十二月五日|
+|QZ|中史小測 上學期|十二月五日|
 |QZ|Geog Quiz|十二月五日|
-|SP|Interpretive Reading|十二月五日|
-|HW|《水調歌頭》習作簿 Q4,6|十二月五日|
-|HW|《天淨沙》習作簿 Q3(2),4|十二月五日|
 |HW|《水調歌頭》課後練習|十二月五日|
+|HW|HWC Ex6C (11,14,15)|十二月五日|
+|HW|成語小測 P.421-455|十二月五日|
 |HW|Bio Ex.3.3-3.4|十二月五日|
 |QZ|Resource Optimisation Quiz 2|十二月六日|
-|DT|成語小測 P.421-455|十二月六日|
 |QZ|Music Quiz|十二月六日|
+|HW|《水調歌頭》習作簿 Q4,6|十二月六日|
+|HW|《天淨沙》習作簿 Q3(2),4|十二月六日|
+|HW|《天淨沙》課後練習|十二月六日|
+|SP|Interpretive Reading|十二月七日|
+|DT|成語小測 P.421-455|十二月十六日|
+|PJ|Class Talk Show Performance|十二月十六日|
 |HW|閱讀理解 《滿江紅》第三至八題|十二月十六日|
 |HW|文言練習 3.5-3.6|十二月十六日|
 |HW|文言練習 3.7-3.8|十二月十六日|
-|PJ|Class Talk Show Performance|十二月十六日|
 |QZ|成語小測 P.456-491|十二月十七日|
 |TS|FM Exam|十二月十七日|
 |PJ|Hall Talk Show Performance|十二月十八日|
@@ -59,7 +61,7 @@
 |HW|文言練習 文言應試訓練 1|五月十二日|
 |HW|文言練習 文言應試訓練 2|五月十九日|
 |QZ|普通話小測 下學期|五月二十七日|
-|TS|中史小測 下學期|五月二十九日|
+|QZ|中史小測 下學期|五月二十九日|
 |QZ|Resource Optimisation Quiz 4|六月二日|
 |UT|Math UT6|六月四日|
 |BK|中文閱讀報告 第六篇（暑期功課）|九月二日|

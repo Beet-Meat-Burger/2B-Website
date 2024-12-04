@@ -1,4 +1,5 @@
 # Homework History
+
 <h3>類別 Type：</h3>
 *   HW = 功課　　 Homework
 *   BK = 閱讀報告 Book Report
@@ -9,6 +10,7 @@
 *   QZ = 小測　　 Quiz
 *   TS = 測驗　　 Tests
 <br/>
+
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
 |BR|Bring Grammar Book Answer Key|九月五日|
@@ -235,3 +237,6 @@
 |BK|中文閱讀報告 第三篇|十二月三日|
 |HW|作文大綱|十二月三日|
 |HW|Grammar Unit 18|十二月三日|
+|DT|堂上問詞解 3.1-3.4|十二月四日|
+|HW|Job Application|十二月四日|
+|HW|HWB Ex6C (2,4,9)|十二月四日|
