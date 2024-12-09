@@ -20,19 +20,19 @@
 
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|QZ|Resource Optimisation Quiz 2|十二月六日|
-|QZ|Music Quiz|十二月六日|
-|HW|《水調歌頭》習作簿 Q4,6|十二月六日|
-|HW|《天淨沙》習作簿 Q3(2),4|十二月六日|
-|HW|《天淨沙》課後練習|十二月六日|
-|SP|Interpretive Reading|十二月七日|
 |DT|成語小測 P.421-455|十二月十六日|
 |PJ|Class Talk Show Performance|十二月十六日|
 |HW|閱讀理解 《滿江紅》第三至八題|十二月十六日|
 |HW|文言練習 3.5-3.6|十二月十六日|
 |HW|文言練習 3.7-3.8|十二月十六日|
+|HW|HWA Ex8A (15,18,24,28)|十二月十六日|
+|HW|Maths UT3 Corr.|十二月十六日|
+|HW|Geog Notes P.38|十二月十六日|
+|HW|Phy Ex7 + Corr.|十二月十六日|
+|HW|Chem Ex6|十二月十六日|
 |QZ|成語小測 P.456-491|十二月十七日|
 |TS|FM Exam|十二月十七日|
+|SP|普通話個人短講 第二天|十二月十七日|
 |PJ|Hall Talk Show Performance|十二月十八日|
 |DT|堂上問文言詞解 3.5-3.8|十二月十八日|
 |QZ|文言詞解小測 2.1-3.8|十二月十九日|

@@ -247,3 +247,9 @@
 |HW|成語小測 P.421-455|十二月五日|
 |HW|Bio Ex.3.3-3.4|十二月五日|
 |HW|中文書 語文運用 P.4.37|十二月五日|
+|QZ|Resource Optimisation Quiz 2|十二月六日|
+|QZ|Music Quiz|十二月六日|
+|HW|《水調歌頭》習作簿 Q4,6|十二月六日|
+|HW|《天淨沙》習作簿 Q3(2),4|十二月六日|
+|HW|《天淨沙》課後練習|十二月六日|
+|SP|Interpretive Reading|十二月七日|
