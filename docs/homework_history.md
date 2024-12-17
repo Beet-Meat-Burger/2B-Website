@@ -263,3 +263,7 @@
 |HW|Geog Notes P.38|十二月十六日|
 |HW|Phy Ex7 + Corr.|十二月十六日|
 |HW|Chem Ex6|十二月十六日|
+|QZ|成語小測 P.456-491|十二月十七日|
+|TS|FM Exam|十二月十七日|
+|SP|普通話個人短講 第二天|十二月十七日|
+|QZ|CL Quiz|十二月十七日|
