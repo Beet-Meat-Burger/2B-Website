@@ -267,3 +267,15 @@
 |TS|FM Exam|十二月十七日|
 |SP|普通話個人短講 第二天|十二月十七日|
 |QZ|CL Quiz|十二月十七日|
+|HW|HE Design Bag|十二月十七日|
+|PJ|Hall Talk Show Performance|十二月十八日|
+|HW|Chem Ex5 Corr.|十二月十八日|
+|HW|Elements Quiz Corr|十二月十八日|
+|HW|HWB Ex8B (11,17ab,21)|十二月十八日|
+|HW|Hist WB P.10,11,16,18|十二月十八日|
+|HW|成語小測 P.421-455|十二月十八日|
+|HW|成語小測 P.456-491|十二月十八日|
+|QZ|文言詞解小測 2.1-3.8|十二月十九日|
+|HW|Chem Ex7A|十二月十九日|
+|HW|HWC Ex8B (14,22,24,25)|十二月十九日|
+|HW|中文 Past Paper 改正|十二月十九日|
