@@ -279,3 +279,5 @@
 |HW|Chem Ex7A|十二月十九日|
 |HW|HWC Ex8B (14,22,24,25)|十二月十九日|
 |HW|中文 Past Paper 改正|十二月十九日|
+|HW|2 Book Reports on Dec.|十二月二十日|
+|HW|LS 資料搜集表|十二月二十日|
