@@ -11,15 +11,18 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 3，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 5，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+<br/>
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
-<br/>Quiz 2： At Lunch 
 <br/>Quiz 4： After School
 <br/>
 
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
+|BR|帶中文黃色文件夾|一月二十一日|
+|BR|Bring Maths Quiz File|一月二十一日|
+|BR|Bring Physics File|一月二十一日|
 |HW|文言練習 4.1-4.2|一月二十七日|
 |BK|中文閱讀報告 第四篇|二月十日|
 |HW|文言練習 4.3-4.4|二月十日|
