@@ -281,3 +281,7 @@
 |HW|中文 Past Paper 改正|十二月十九日|
 |HW|2 Book Reports on Dec.|十二月二十日|
 |HW|LS 資料搜集表|十二月二十日|
+|BR|帶中文黃色文件夾|一月二十一日|
+|BR|Bring Maths Quiz File|一月二十一日|
+|BR|Bring Physics File|一月二十一日|
+|HW|《孔明借箭》預習|一月二十一日|
