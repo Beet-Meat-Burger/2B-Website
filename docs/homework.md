@@ -21,24 +21,29 @@
 |----|-------------|-------|
 |HW|Additional Writing Corr.|一月二十三日|
 |HW|閱讀理解《人間有情》|一月二十四日|
+|HW|Vocab Book on Dec.|一月二十四日|
 |HW|文言練習 4.1-4.2|一月二十七日|
 |BK|中文閱讀報告 第四篇|二月十日|
 |HW|文言練習 4.3-4.4|二月十日|
 |HW|文言練習 4.5-4.6|二月十七日|
+|BK|Feb. Book Reports|二月十七日|
 |HW|文言練習 5.1-5.2|二月二十五日|
 |HW|文言練習 5.3-5.4|三月三日|
 |QZ|Resource Optimisation Quiz 3|三月三日|
 |HW|文言練習 5.5-5.6|三月十日|
 |UT|Math UT4|三月十七日|
+|BK|2 Book Reports on Mar.|三月十七日|
 |UT|Math UT5|三月UT內|
 |HW|文言練習 6.1-6.2|四月七日|
 |HW|文言練習 6.3-6.4|四月十四日|
 |HW|文言練習 6.5-6.6|四月二十八日|
 |BK|中文篇章報告 《說謙虛》|四月二十八日|
+|BK|2 Book Reports on Apr.|四月二十八日|
 |BK|中文閱讀報告 第五篇（中國歷史）|五月十二日|
 |HW|文言練習 文言應試訓練 1|五月十二日|
 |HW|文言練習 文言應試訓練 2|五月十九日|
 |QZ|普通話小測 下學期|五月二十七日|
+|BK|2 Book Reports on May.|五月二十六日|
 |QZ|中史小測 下學期|五月二十九日|
 |QZ|Resource Optimisation Quiz 4|六月二日|
 |UT|Math UT6|六月四日|

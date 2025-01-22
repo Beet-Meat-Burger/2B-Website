@@ -212,7 +212,7 @@
 |HW|Bullying Respond WS|十一月二十五日|
 |HW|中史作業 P.30|十一月二十五日|
 |HW|HWB Ex6A (12,14,20,21)|十一月二十五日|
-|BK|2 Book Reports on November|十一月二十五日|
+|BK|2 Book Reports on Nov.|十一月二十五日|
 |DT|堂上背《水調歌頭》|十一月二十六日|
 |HW|中史作業 P.31|十一月二十七日|
 |DT|背默《水調歌頭》|十一月二十八日|
