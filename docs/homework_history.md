@@ -285,3 +285,4 @@
 |BR|Bring Maths Quiz File|一月二十一日|
 |BR|Bring Physics File|一月二十一日|
 |HW|《孔明借箭》預習|一月二十一日|
+|HW|HWA Ex8C (2,3,9)|一月二十二日|
