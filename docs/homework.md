@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 1，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 3，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
@@ -19,10 +19,8 @@
 
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|閱讀理解《人間有情》|一月二十四日|
-|HW|Vocab Book on Dec.|一月二十四日|
-|HW|HWB Ex8C (4b,5,8,14ab)|一月二十四日|
 |HW|文言練習 4.1-4.2|一月二十七日|
+|HW|HWC Ex8C|一月二十七日|
 |BK|中文閱讀報告 第四篇|二月十日|
 |HW|文言練習 4.3-4.4|二月十日|
 |HW|文言練習 4.5-4.6|二月十七日|

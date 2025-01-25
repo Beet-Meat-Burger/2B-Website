@@ -287,3 +287,6 @@
 |HW|《孔明借箭》預習|一月二十一日|
 |HW|HWA Ex8C (2,3,9)|一月二十二日|
 |HW|Additional Writing Corr.|一月二十三日|
+|HW|閱讀理解《人間有情》|一月二十四日|
+|HW|Vocab Book on Dec.|一月二十四日|
+|HW|HWB Ex8C (4b,5,8,14ab)|一月二十四日|
