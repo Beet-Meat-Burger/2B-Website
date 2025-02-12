@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 5，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 1，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
@@ -19,12 +19,18 @@
 
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|中文書語文運用 P.6.57-6.58|二月十一日|
-|HW|Phy Ex.8|二月十一日|
-|QZ|Chem Anion Compound Quiz|二月十一日|
+|HW|Grammar Unit 13|二月十三日|
+|HW|HWC Ex8D (8,10a,11a,18)|二月十三日|
+|HW|寫作大綱|二月十三日|
 |HW|《孔明借箭》習作簿 Q.4(2),8|二月十四日|
+|HW|《孔明借箭》課後練習 P.6.12-6.16|二月十四日|
 |HW|文言練習 4.5-4.6|二月十七日|
+|DT|Dictation (Race)|二月十七日|
 |BK|Feb. Book Reports|二月十七日|
+|HW|普通話作業 P.18|二月二十日|
+|HW|HWD Ch.8|二月二十日|
+|HW|Maths WB Ch.8|二月二十日|
+|QZ|Maths Ch.8 Quiz|二月二十日|
 |HW|文言練習 5.1-5.2|二月二十五日|
 |HW|文言練習 5.3-5.4|三月三日|
 |QZ|Resource Optimisation Quiz 3|三月三日|
