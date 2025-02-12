@@ -12,6 +12,9 @@ sidebar_position: 1
 <br/>編劇：王駿豪
 <br/>幕後：Too many
 <br/>幕前：Too many
+<br/>*號外：*
+* ~~袁 sir 竟當場說陳 XX 樣衰，還聯合其他人，試圖煽動他人情緒，以達成欺凌行為。~~
+* ~~該教師在之前曾提倡「袁 Sir 萬歳，打倒湯 sir」等煽動他人情緒的言語。~~
 <br/>
 <h3>--------Class Association Annocement--------</h3>
 <h4>About the Class Logo and Clothes</h4>
