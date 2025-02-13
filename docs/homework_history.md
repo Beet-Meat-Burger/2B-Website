@@ -297,3 +297,6 @@
 |HW|中文書語文運用 P.6.57-6.58|二月十一日|
 |HW|Phy Ex.8|二月十一日|
 |QZ|Chem Anion Compound Quiz|二月十一日|
+|HW|Grammar Unit 13|二月十三日|
+|HW|HWC Ex8D (8,10a,11a,18)|二月十三日|
+|HW|寫作大綱|二月十三日|
