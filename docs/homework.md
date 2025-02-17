@@ -11,22 +11,24 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 2，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
 <br/>
 
-|類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
+|類別：|繳交內容🗒️🗒️：|日交時間🕗🕗：|
 |----|-------------|-------|
-|DT|Dictation (Race)|二月十七日|
-|BK|Feb. Book Reports|二月十七日|
-|HW|中史作業 P.35-36|二月十七日|
 |HW|Grammar Unit 3|二月十八日|
-|HW|普通話作業 P.18|二月二十日|
+|HW|HWB Ex1A(18,29,23,24,25,28)|二月十八日|
+|HW|中文書《最苦與最樂》預習|二月十九日|
+|QZ|Revision Test 3|二月十九日|
+|HW|閱讀理解《一碗陽春麵》Q 1-3|二月二十日|
+|HW|Factorization WS|二月二十日|
 |HW|HWD Ch.8|二月二十日|
 |HW|Maths WB Ch.8|二月二十日|
 |QZ|Maths Ch.8 Quiz|二月二十日|
+|HW|普通話作業 P.18|二月二十日|
 |HW|文言練習 5.1-5.2|二月二十五日|
 |HW|文言練習 5.3-5.4|三月三日|
 |QZ|Resource Optimisation Quiz 3|三月三日|
