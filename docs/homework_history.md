@@ -307,3 +307,5 @@
 |DT|Dictation (Race)|二月十七日|
 |BK|Feb. Book Reports|二月十七日|
 |HW|中史作業 P.35-36|二月十七日|
+|HW|Grammar Unit 3|二月十八日|
+|HW|HWB Ex1A(18,29,23,24,25,28)|二月十八日|
