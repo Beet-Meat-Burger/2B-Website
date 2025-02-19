@@ -309,3 +309,9 @@
 |HW|中史作業 P.35-36|二月十七日|
 |HW|Grammar Unit 3|二月十八日|
 |HW|HWB Ex1A(18,29,23,24,25,28)|二月十八日|
+|HW|中文書《最苦與最樂》預習|二月十九日|
+|QZ|Revision Test 3|二月十九日|
+|HW|HWA Ex1B(24,25,27,29,31) |二月十九日|
+|HW|Phy HW9|二月十九日|
+|HW|Phy HW8 Corr.|二月十九日|
+|QZ|Chem Anion Quiz|二月十九日|
