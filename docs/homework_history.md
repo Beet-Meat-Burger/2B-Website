@@ -315,3 +315,9 @@
 |HW|Phy HW9|二月十九日|
 |HW|Phy HW8 Corr.|二月十九日|
 |QZ|Chem Anion Quiz|二月十九日|
+|HW|閱讀理解《一碗陽春麵》Q 1-3|二月二十日|
+|HW|Factorization WS|二月二十日|
+|HW|HWD Ch.8|二月二十日|
+|HW|Maths WB Ch.8|二月二十日|
+|QZ|Maths Ch.8 Quiz|二月二十日|
+|HW|普通話作業 P.18|二月二十日|
