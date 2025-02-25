@@ -321,3 +321,7 @@
 |HW|Maths WB Ch.8|二月二十日|
 |QZ|Maths Ch.8 Quiz|二月二十日|
 |HW|普通話作業 P.18|二月二十日|
+|HW|文言練習 5.1-5.2|二月二十五日|
+|HW|Chem Ex7B|二月二十五日|
+|HW|Chem Cation Quiz Corr.|二月二十五日|
+|HW|Supp. Ex. Ch.8|二月二十五日|

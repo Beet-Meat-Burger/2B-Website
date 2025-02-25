@@ -19,10 +19,6 @@
 
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|文言練習 5.1-5.2|二月二十五日|
-|HW|Chem Ex7B|二月二十五日|
-|HW|Chem Cation Quiz Corr.|二月二十五日|
-|HW|Supp. Ex. Ch.8|二月二十五日|
 |HW|News Commentry|二月二十六日|
 |HW|文言練習 5.3-5.4|三月三日|
 |QZ|Resource Optimisation Quiz 3|三月三日|
