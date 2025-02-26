@@ -325,3 +325,5 @@
 |HW|Chem Ex7B|二月二十五日|
 |HW|Chem Cation Quiz Corr.|二月二十五日|
 |HW|Supp. Ex. Ch.8|二月二十五日|
+|HW|News Commentry|二月二十六日|
+|HW|HWC Ex1C (21,23,25,27,29,31)|二月二十六日|

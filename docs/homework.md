@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 2，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 3，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
@@ -19,13 +19,12 @@
 
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|News Commentry|二月二十六日|
-|HW|HWC Ex1C (21,23,25,27,29,31)|二月二十六日|
-|DT|堂上問文言詞解 4.5-5.2|二月二十七日|
+|HW|HWA Ex1D (13,17,19,23)|二月二十七日|
 |HW|地區貧窮工作紙|二月二十七日|
 |HW|中史作業 P.37-39|二月二十七日|
 |HW|評論題工作紙|二月二十七日|
 |HW|中文書《鄒忌諷齊王納諌》預習|二月二十八日|
+|DT|堂上問文言詞解 4.5-5.2|二月二十八日|
 |HW|文言練習 5.3-5.4|三月三日|
 |QZ|Resource Optimisation Quiz 3|三月三日|
 |HW|文言練習 5.5-5.6|三月十日|
