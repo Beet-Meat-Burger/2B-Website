@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 3，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 5，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
@@ -24,6 +24,8 @@
 |HW|Geog Assignment 1|三月三日|
 |HW|文言練習 5.3-5.4|三月三日|
 |QZ|Resource Optimisation Quiz 3|三月三日|
+|QZ|Grammar Quiz Unit 10,12|三月四日|
+|HW|Ted Talk P.116-117|三月四日|
 |HW|《最苦與最樂》課後練習|三月五日|
 |HW|Grammar Unit 10,12|三月五日|
 |HW|《最苦與最樂》習作簿 Q2-5|三月六日|
