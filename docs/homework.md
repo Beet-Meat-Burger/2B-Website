@@ -24,6 +24,7 @@
 |HW|Geog Assignment 1|三月三日|
 |HW|文言練習 5.3-5.4|三月三日|
 |QZ|Resource Optimisation Quiz 3|三月三日|
+|DT|Ionic Compound Dictation|三月三日|
 |QZ|Grammar Quiz Unit 10,12|三月四日|
 |HW|Ted Talk P.116-117|三月四日|
 |HW|《最苦與最樂》課後練習|三月五日|
