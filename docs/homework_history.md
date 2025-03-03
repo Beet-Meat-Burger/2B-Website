@@ -333,3 +333,9 @@
 |HW|評論題工作紙|二月二十七日|
 |HW|中文書《鄒忌諷齊王納諌》預習|二月二十八日|
 |DT|堂上問文言詞解 4.5-5.2|二月二十八日|
+|HW|Vocab Book on Mar.|三月三日|
+|HW|Bio Ex 5.1|三月三日|
+|HW|Geog Assignment 1|三月三日|
+|HW|文言練習 5.3-5.4|三月三日|
+|QZ|Resource Optimisation Quiz 3|三月三日|
+|DT|Ionic Compound Dictation|三月三日|
