@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 6，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 1，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
@@ -19,13 +19,10 @@
 
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|Ted Talk P.116-117|三月四日|
-|HW|閱讀理解《五代史伶官傳序》Q1-5,8|三月四日|
-|HW|Chem Anion Quiz Corr.|三月四日|
-|QZ|Grammar Quiz Unit 10,12|三月四日|
 |HW|中史作業 P.40|三月五日|
 |HW|《最苦與最樂》課後練習|三月五日|
 |HW|Grammar Unit 10,12|三月五日|
+|HW|HWA Ex9B (4,9,13,15)|三月五日|
 |HW|《最苦與最樂》習作簿 Q2-5|三月六日|
 |HW|HWD Ch.1|三月七日|
 |HW|Maths WB Ch.1|三月七日|
@@ -34,6 +31,12 @@
 |QZ|Geog Map Reading Quiz|三月七日|
 |HW|Chem Ex8|三月七日|
 |HW|文言練習 5.5-5.6|三月十日|
+|HW|RO Ex. P.37-38|三月十一日|
+|TS|History Test 4|三月十一日|
+|QZ|堂上問詞解 5.3-5.6|三月十一日|
+|HW|閱讀理解《想和做》Q1-3,6|三月十二日|
+|HW|普通話作業 P.38|三月十二日|
+|QZ|文言詞解小測 4.1-5.3|三月十二日|
 |UT|Math UT4|三月十七日|
 |BK|2 Book Reports on Mar.|三月十七日|
 |UT|Math UT5|三月UT內|

@@ -339,3 +339,7 @@
 |HW|文言練習 5.3-5.4|三月三日|
 |QZ|Resource Optimisation Quiz 3|三月三日|
 |DT|Ionic Compound Dictation|三月三日|
+|HW|Ted Talk P.116-117|三月四日|
+|HW|閱讀理解《五代史伶官傳序》Q1-5,8|三月四日|
+|HW|Chem Anion Quiz Corr.|三月四日|
+|QZ|Grammar Quiz Unit 10,12|三月四日|
