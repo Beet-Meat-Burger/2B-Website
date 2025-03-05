@@ -343,3 +343,7 @@
 |HW|閱讀理解《五代史伶官傳序》Q1-5,8|三月四日|
 |HW|Chem Anion Quiz Corr.|三月四日|
 |QZ|Grammar Quiz Unit 10,12|三月四日|
+|HW|中史作業 P.40|三月五日|
+|HW|《最苦與最樂》課後練習|三月五日|
+|HW|Grammar Unit 10,12|三月五日|
+|HW|HWA Ex9B (4,9,13,15)|三月五日|
