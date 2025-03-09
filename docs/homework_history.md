@@ -347,3 +347,9 @@
 |HW|《最苦與最樂》課後練習|三月五日|
 |HW|Grammar Unit 10,12|三月五日|
 |HW|HWA Ex9B (4,9,13,15)|三月五日|
+|HW|HWD Ch.1|三月七日|
+|HW|Maths WB Ch.1|三月七日|
+|HW|中文書 文言知識庫 P.7.24-7.26|三月七日|
+|QZ|Maths Ch.1 Quiz|三月七日|
+|QZ|Geog Map Reading Quiz|三月七日|
+|HW|Chem Ex8|三月七日|
