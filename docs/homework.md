@@ -16,16 +16,35 @@
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
 <br/>
-
+<h3>UT 時間表 / UT Timetable：</h3>
+|　|日期 Date：|科目：|Subjects：|
+|--|----------|------|-----------|
+|🔷|三月十七日　|數學|Mathematics|
+|🔷|三月十八日　|化學|Chemistry|
+|🔷|三月十九日　|地理|Geography|
+|🔷|三月二十日　|生活與社會|Life & Society|
+|🔷|三月二十一日|生物|Biology|
+|🔷|三月二十五日|中文|Chinese Language|
+|  |　　　　　　|物理|Physics|
+|🔷|三月二十六日|英文|English Language|
+|  |　　　　　　|資源管理|Resource Optimisation|
+|🔷|三月二十七日|數學|Mathematics|
+|  |　　　　　　|中史|Chinese History|
+|🔷|三月二十八日|西史|History|
+|  |　　　　　　|財務管理|Financial Management|
+|  |　　　　　　|普通話|Putonghua|
+<br/>
+<br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
 |HW|閱讀理解《想和做》Q1-3,6|三月十七日|
 |HW|普通話作業 P.38|三月十七日|
 |HW|Life WB Unit 12b|三月十七日|
+|HW|Grammar Unit 20|三月十七日|
 |QZ|文言詞解小測 4.1-5.3|三月十七日|
 |UT|Math UT4|三月十七日|
 |BK|2 Book Reports on Mar.|三月十七日|
-|UT|Math UT5|三月UT內|
+|UT|Math UT5|三月 UT 內|
 |HW|文言練習 6.1-6.2|四月七日|
 |HW|Vocab Book on Apr.|四月七日|
 |HW|文言練習 6.3-6.4|四月十四日|
