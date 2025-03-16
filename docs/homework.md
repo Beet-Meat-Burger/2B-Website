@@ -42,8 +42,10 @@
 |HW|Life WB Unit 12b|三月十七日|
 |HW|Grammar Unit 20|三月十七日|
 |QZ|文言詞解小測 4.1-5.3|三月十七日|
+|QZ|CL SQL Quiz|三月十七日|
 |UT|Math UT4|三月十七日|
 |BK|2 Book Reports on Mar.|三月十七日|
+|HW|Chem Ex7B,Ex8 Corr. + File|三月十八日|
 |UT|Math UT5|三月 UT 內|
 |HW|文言練習 6.1-6.2|四月七日|
 |HW|Vocab Book on Apr.|四月七日|
