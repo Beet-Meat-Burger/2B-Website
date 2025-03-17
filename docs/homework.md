@@ -19,7 +19,7 @@
 <h3>UT 時間表 / UT Timetable：</h3>
 |　|日期 Date：|科目：|Subjects：|
 |--|----------|------|-----------|
-|🔷|三月十七日　|數學|Mathematics|
+|🔶|三月十七日　|數學|Mathematics|
 |🔷|三月十八日　|化學|Chemistry|
 |🔷|三月十九日　|地理|Geography|
 |🔷|三月二十日　|生活與社會|Life & Society|
@@ -37,14 +37,6 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|閱讀理解《想和做》Q1-3,6|三月十七日|
-|HW|普通話作業 P.28|三月十七日|
-|HW|Life WB Unit 12b|三月十七日|
-|HW|Grammar Unit 20|三月十七日|
-|QZ|文言詞解小測 4.1-5.3|三月十七日|
-|QZ|CL SQL Quiz|三月十七日|
-|UT|Math UT4|三月十七日|
-|BK|2 Book Reports on Mar.|三月十七日|
 |HW|Chem Ex7B,Ex8 Corr. + File|三月十八日|
 |UT|Math UT5|三月 UT 內|
 |HW|文言練習 6.1-6.2|四月七日|
