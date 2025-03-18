@@ -14,12 +14,12 @@ const FeatureList = [
     ),
   },
   {
-    url: "/docs/info",
-    title: '3B Info and Board',
-    Svg: require('@site/static/img/3B_2.svg').default,
+    url: "docs/latest-news",
+    title: 'Latest News',
+    Svg: require('@site/static/img/Exclaim.svg').default,
     description: (
       <>
-        View infomation for Class 3B.
+        The Latest News from CLASS 3B.
       </>
     ),
   },
@@ -32,6 +32,16 @@ const FeatureList = [
         For classmates who forgot to submit.
       </>
     )
+  }, 
+  {
+    url: "/docs/info",
+    title: '3B Info and Board',
+    Svg: require('@site/static/img/3B_2.svg').default,
+    description: (
+      <>
+        View infomation for Class 3B.
+      </>
+    ),
   },
   {
     url: "/docs/downloads",
@@ -53,16 +63,6 @@ const FeatureList = [
       </>
     ),
   },
-  {
-    url: "docs/post",
-    title: 'Post',
-    Svg: require('@site/static/img/poem.svg').default,
-    description: (
-      <>
-        Shows CLASS 3B Posts.
-      </>
-    ),
-  }
 ];
 
 const handleOnClick = (url) => {
