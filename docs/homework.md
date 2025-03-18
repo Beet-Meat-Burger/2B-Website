@@ -20,7 +20,7 @@
 |　|日期 Date：|科目：|Subjects：|
 |--|----------|------|-----------|
 |🔶|三月十七日　|數學|Mathematics|
-|🔷|三月十八日　|化學|Chemistry|
+|🔶|三月十八日　|化學|Chemistry|
 |🔷|三月十九日　|地理|Geography|
 |🔷|三月二十日　|生活與社會|Life & Society|
 |🔷|三月二十一日|生物|Biology|
