@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 6，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 2，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
@@ -21,8 +21,8 @@
 |--|----------|------|-----------|
 |🔶|三月十七日　|數學|Mathematics|
 |🔶|三月十八日　|化學|Chemistry|
-|🔷|三月十九日　|地理|Geography|
-|🔷|三月二十日　|生活與社會|Life & Society|
+|🔶|三月十九日　|地理|Geography|
+|🔶|三月二十日　|生活與社會|Life & Society|
 |🔷|三月二十一日|生物|Biology|
 |🔷|三月二十五日|中文|Chinese Language|
 |  |　　　　　　|物理|Physics|
