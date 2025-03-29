@@ -373,3 +373,5 @@
 |BK|2 Book Reports on Mar.|三月十七日|
 |HW|Chem Ex7B,Ex8 Corr. + File|三月十八日|
 |HW|中史網上問答比賽|三月十八日|
+|HW|中史作業 P.41-43|三月二十日|
+|UT|Math UT5|三月 UT 內|
