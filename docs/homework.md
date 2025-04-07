@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 3，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
@@ -19,12 +19,11 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|文言練習 6.1-6.2|四月七日|
-|HW|Vocab Book on Apr.|四月七日|
-|HW|HWC Ex10B (12,13,18,19)|四月七日|
 |PJ|Music Project|四月八日|
 |DT|Dictation for Phrasal Verbs|四月八日|
 |HW|I have a Dream Poem|四月八日|
+|HW|統測卷改正 (UT2)|四月八日|
+|HW|Geog Assignment 2|四月九日|
 |HW|文言練習 6.3-6.4|四月十四日|
 |HW|文言練習 6.5-6.6|四月二十八日|
 |BK|中文篇章報告 《說謙虛》|四月二十八日|
