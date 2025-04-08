@@ -379,3 +379,7 @@
 |HW|文言練習 6.1-6.2|四月七日|
 |HW|Vocab Book on Apr.|四月七日|
 |HW|HWC Ex10B (12,13,18,19)|四月七日|
+|PJ|Music Project|四月八日|
+|DT|Dictation for Phrasal Verbs|四月八日|
+|HW|I have a Dream Poem|四月八日|
+|HW|統測卷改正 (UT2)|四月八日|

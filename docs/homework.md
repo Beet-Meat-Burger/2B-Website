@@ -19,15 +19,19 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|PJ|Music Project|四月八日|
-|DT|Dictation for Phrasal Verbs|四月八日|
-|HW|I have a Dream Poem|四月八日|
-|HW|統測卷改正 (UT2)|四月八日|
 |HW|Geog Assignment 2|四月九日|
+|HW|Grammar Unit 19|四月九日|
+|HW|Grammar P.243|四月九日|
+|HW|HWA Ex10C (7,13,18)|四月九日|
+|HW|Phy UT Corr. + File|四月九日|
+|HW|Phy HW11|四月九日|
 |HW|文言練習 6.3-6.4|四月十四日|
 |HW|文言練習 6.5-6.6|四月二十八日|
 |BK|中文篇章報告 《說謙虛》|四月二十八日|
 |BK|2 Book Reports on Apr.|四月二十八日|
+|BK|Phy Book Report|四月二十八日|
+|PJ|中史、西史、地理、LS、RO 號外|四月二十八日|
+|HW|Secret of Bio WS|四月二十八日|
 |BK|中文閱讀報告 第五篇（中國歷史）|五月十二日|
 |HW|文言練習 文言應試訓練 1|五月十二日|
 |HW|文言練習 文言應試訓練 2|五月十九日|
