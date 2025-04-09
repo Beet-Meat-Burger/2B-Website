@@ -25,9 +25,9 @@
 |HW|中史作業 P.44,45,49|四月十一日|
 |HW|Chem UT Corr. + File|四月十一日|
 |QZ|Hist Revision Test|四月十一日|
+|HW|文言練習 6.3-6.4|四月十四日|
 |HW|HWD Ch.10|四月十六日|
 |HW|Math WB Ch.10|四月十六日|
-|HW|文言練習 6.3-6.4|四月十四日|
 |HW|文言練習 6.5-6.6|四月二十八日|
 |BK|中文篇章報告 《說謙虛》|四月二十八日|
 |BK|2 Book Reports on Apr.|四月二十八日|
