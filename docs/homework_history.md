@@ -383,3 +383,9 @@
 |DT|Dictation for Phrasal Verbs|四月八日|
 |HW|I have a Dream Poem|四月八日|
 |HW|統測卷改正 (UT2)|四月八日|
+|HW|Geog Assignment 2|四月九日|
+|HW|Grammar Unit 19|四月九日|
+|HW|Grammar P.243|四月九日|
+|HW|HWA Ex10C (7,13,18)|四月九日|
+|HW|Phy UT Corr. + File|四月九日|
+|HW|Phy HW11|四月九日|
