@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 1，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
@@ -19,15 +19,17 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|QZ|Grammar Quiz|四月十日|
-|DT|《鄒忌諷齊王納諌》問書第一至二段|四月十日|
 |HW|Grammar P.245,247|四月十一日|
 |HW|中史作業 P.44,45,49|四月十一日|
 |HW|Chem UT Corr. + File|四月十一日|
 |QZ|Hist Revision Test|四月十一日|
 |HW|文言練習 6.3-6.4|四月十四日|
+|HW|《鄒忌諷齊王納諌》習作簿 Q.3(2),4|四月十五日|
+|DT|《鄒忌諷齊王納諌》問書 第三至四段|四月十五日|
 |HW|HWD Ch.10|四月十六日|
 |HW|Math WB Ch.10|四月十六日|
+|DT|《鄒忌諷齊王納諌》背默|四月十六日|
+|HW|普通話課本 P.38 第二題|四月十八日|
 |HW|文言練習 6.5-6.6|四月二十八日|
 |BK|中文篇章報告 《說謙虛》|四月二十八日|
 |BK|2 Book Reports on Apr.|四月二十八日|

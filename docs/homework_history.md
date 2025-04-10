@@ -389,3 +389,5 @@
 |HW|HWA Ex10C (7,13,18)|四月九日|
 |HW|Phy UT Corr. + File|四月九日|
 |HW|Phy HW11|四月九日|
+|QZ|Grammar Quiz|四月十日|
+|DT|《鄒忌諷齊王納諌》問書第一至二段|四月十日|
