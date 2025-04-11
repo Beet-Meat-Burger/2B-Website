@@ -391,3 +391,7 @@
 |HW|Phy HW11|四月九日|
 |QZ|Grammar Quiz|四月十日|
 |DT|《鄒忌諷齊王納諌》問書第一至二段|四月十日|
+|HW|Grammar P.245,247|四月十一日|
+|HW|中史作業 P.44,45,49|四月十一日|
+|HW|Chem UT Corr. + File|四月十一日|
+|QZ|Hist Revision Test|四月十一日|

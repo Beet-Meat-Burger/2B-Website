@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 1，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 1 ，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
@@ -19,28 +19,30 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|Grammar P.245,247|四月十一日|
-|HW|中史作業 P.44,45,49|四月十一日|
-|HW|Chem UT Corr. + File|四月十一日|
-|QZ|Hist Revision Test|四月十一日|
 |HW|文言練習 6.3-6.4|四月十四日|
-|HW|《鄒忌諷齊王納諌》習作簿 Q.3(2),4|四月十五日|
+|HW|HWB Ex10C (15,17,23,25)|四月十四日|
+|DT|中華經典名句 堂上問書|四月十四日|
+|DT|Phrasal Verbs Dict|四月十四日|
+|HW|中史作業 P.46,50|四月十五日|
+|HW|《鄒忌諷齊王納諌》課後練習|四月十五日|
 |DT|《鄒忌諷齊王納諌》問書 第三至四段|四月十五日|
 |HW|HWD Ch.10|四月十六日|
 |HW|Math WB Ch.10|四月十六日|
 |DT|《鄒忌諷齊王納諌》背默|四月十六日|
-|HW|普通話課本 P.38 第二題|四月十八日|
 |HW|文言練習 6.5-6.6|四月二十八日|
 |BK|中文篇章報告 《說謙虛》|四月二十八日|
 |BK|2 Book Reports on Apr.|四月二十八日|
 |BK|Phy Book Report|四月二十八日|
-|PJ|中史、西史、地理、LS、RO 號外|四月二十八日|
 |HW|Secret of Bio WS|四月二十八日|
+|PJ|中史、西史、地理、LS、RO 號外|四月二十八日|
+|HW|《鄒忌諷齊王納諌》習作簿 Q.3(2),4|四月二十九日日|
+|HW|普通話課本 P.38 第二題|四月二十九日|
+|HW|《鄒忌諷齊王納諌》習作簿||
 |BK|中文閱讀報告 第五篇（中國歷史）|五月十二日|
 |HW|文言練習 文言應試訓練 1|五月十二日|
 |HW|文言練習 文言應試訓練 2|五月十九日|
-|QZ|3 下學期|五月二十七日|
 |BK|2 Book Reports on May.|五月二十六日|
+|QZ|普通話小測 下學期||
 |QZ|中史小測 下學期|五月二十九日|
 |QZ|Resource Optimisation Quiz 4|六月二日|
 |UT|Math UT6|六月四日|
