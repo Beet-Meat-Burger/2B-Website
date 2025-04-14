@@ -395,3 +395,7 @@
 |HW|中史作業 P.44,45,49|四月十一日|
 |HW|Chem UT Corr. + File|四月十一日|
 |QZ|Hist Revision Test|四月十一日|
+|HW|文言練習 6.3-6.4|四月十四日|
+|HW|HWB Ex10C (15,17,23,25)|四月十四日|
+|DT|中華經典名句 堂上問書|四月十四日|
+|DT|Phrasal Verbs Dict|四月十四日|
