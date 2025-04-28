@@ -404,3 +404,11 @@
 |HW|《鄒忌諷齊王納諌》課後練習|四月十五日|
 |DT|《鄒忌諷齊王納諌》問書 第三至四段|四月十五日|
 |DT|《鄒忌諷齊王納諌》背默|四月十六日|
+|HW|文言練習 6.5-6.6|四月二十八日|
+|HW|HWD Ch.10|四月二十八日|
+|HW|Math WB Ch.10|四月二十八日|
+|HW|HWA, HWB, HWC Corr.|四月二十八日|
+|BK|中文篇章報告 《說謙虛》|四月二十八日|
+|BK|2 Book Reports on Apr.|四月二十八日|
+|BK|Phy Book Report|四月二十八日|
+|HW|Secret of Bio WS|四月二十八日|
