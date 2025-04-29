@@ -412,3 +412,8 @@
 |BK|2 Book Reports on Apr.|四月二十八日|
 |BK|Phy Book Report|四月二十八日|
 |HW|Secret of Bio WS|四月二十八日|
+|PJ|中史、西史、地理、LS、RO 號外|四月二十九日|
+|HW|《鄒忌諷齊王納諌》習作簿 Q.3(2),4|四月二十九日|
+|HW|普通話課本 P.38 第二題|四月二十九日|
+|HW|Maths Ch.10 Quiz Corr.|四月二十九日|
+|HW|《鄒忌諷齊王納諌》默書改正|四月二十九日|
