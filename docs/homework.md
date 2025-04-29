@@ -30,7 +30,7 @@
 |HW|文言練習 文言應試訓練 1|五月十二日|
 |HW|文言練習 文言應試訓練 2|五月十九日|
 |BK|2 Book Reports on May.|五月二十六日|
-|QZ|普通話小測 下學期||
+|QZ|普通話小測 下學期|五月二十七日|
 |QZ|中史小測 下學期|五月二十九日|
 |QZ|Resource Optimisation Quiz 4|六月二日|
 |UT|Math UT6|六月四日|
