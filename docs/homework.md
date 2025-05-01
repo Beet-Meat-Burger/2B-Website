@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 1，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 2，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
@@ -19,8 +19,11 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|中史作業 P.47-51|四月三十日|
-|HW|HWA Ex11A (12,14b,16,18,20,21)|四月三十日|
+|HW|綜合國力工作紙|五月六日|
+|HW|中史作業 P.52-55|五月六日|
+|HW|History Test 3 Corr.|五月六日|
+|HW|ERS Competition Book|五月六日|
+|HW|Hist WB P.9,10,14,15,19|五月八日|
 |BK|中文閱讀報告 第五篇（中國歷史）|五月十二日|
 |HW|文言練習 文言應試訓練 1|五月十二日|
 |HW|文言練習 文言應試訓練 2|五月十九日|
