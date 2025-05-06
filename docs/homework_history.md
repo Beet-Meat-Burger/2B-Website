@@ -421,3 +421,9 @@
 |HW|HWA Ex11A (12,14b,16,18,20,21)|四月三十日|
 |PJ|Maths Inclinometer Project WS|五月二日|
 |HW|中文書 文言知識庫 P.8.14-8.16|五月二日|
+|HW|綜合國力工作紙|五月六日|
+|HW|中史作業 P.52-55|五月六日|
+|HW|ERS Competition Book|五月六日|
+|HW|HWB Ex11B (4,6,8,13,15b,18,19)|五月六日|
+|HW|HWB Ex11C (9a,10,11,15,17)|五月六日|
+|HW|《論四端》預習|五月六日|

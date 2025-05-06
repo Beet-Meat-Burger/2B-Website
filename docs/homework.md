@@ -19,20 +19,18 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|綜合國力工作紙|五月六日|
-|HW|中史作業 P.52-55|五月六日|
-|HW|History Test 3 Corr.|五月六日|
-|HW|ERS Competition Book|五月六日|
-|HW|HWB Ex11B (4,6,8,13,15b,18,19)|五月六日|
-|HW|HWB Ex11C (9a,10,11,15,17)|五月六日|
-|HW|《論四端》預習|五月六日|
+|DT|堂上問書《論語八則》4,6-8 句|五月七日|
+|HW|HWC Ex11D (6,9,10)|五月七日|
+|HW|History Test 3 Corr.|五月八日|
 |HW|Hist WB P.9,10,14,15,19|五月八日|
+|DT|背默《論語八則》|五月八日|
 |HW|普通話課本 P.56|五月九日|
-|PJ|Phrasal Verbs Video|五月九日|
-|BK|中文閱讀報告 第五篇（中國歷史）|五月十二日|
+|PJ|Phrasal Verbs Video|五月十二日|
 |HW|文言練習 文言應試訓練 1|五月十二日|
+|BK|中文閱讀報告 第五篇（中國歷史）|五月十三日|
 |HW|文言練習 文言應試訓練 2|五月十九日|
-|HW|Grammar Quiz - Phrasal Verbs|五月十九日|
+|QZ|Grammar Quiz - Phrasal Verbs|五月十九日|
+|QZ|Geog Quiz|五月二十二日|
 |BK|2 Book Reports on May.|五月二十六日|
 |PJ|ICH Time Capsule|五月二十六日|
 |QZ|普通話小測 下學期|五月二十七日|
