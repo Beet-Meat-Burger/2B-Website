@@ -435,3 +435,6 @@
 |HW|HWA Ex11E (2,9,10,13)|五月八日|
 |HW|Phy HW13 + HW12 Corr.|五月八日|
 |HW|普通話課本 P.56|五月九日|
+|PJ|Phrasal Verbs Video|五月十二日|
+|HW|文言練習 文言應試訓練 1|五月十二日|
+|HW|Grammar Unit 17|五月十二日|
