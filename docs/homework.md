@@ -19,7 +19,8 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|BK|中文閱讀報告 第五篇（中國歷史）|五月十三日|
+|HW|HWC Ex11G (2,5,8)|五月十四日|
+|HW|Additional Writing Corr.|五月十四日|
 |HW|文言練習 文言應試訓練 2|五月十九日|
 |QZ|Grammar Quiz - Phrasal Verbs|五月十九日|
 |QZ|Geog Quiz|五月二十二日|
