@@ -440,3 +440,5 @@
 |HW|Grammar Unit 17|五月十二日|
 |HW|HWB Ex11F (2,4,12,14)|五月十三日|
 |BK|中文閱讀報告 第五篇（中國歷史）|五月十三日|
+|HW|HWC Ex11G (2,5,8)|五月十四日|
+|HW|Additional Writing Corr.|五月十四日|

@@ -19,9 +19,11 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|HWC Ex11G (2,5,8)|五月十四日|
-|HW|Additional Writing Corr.|五月十四日|
+|DT|中華經典名句 11-20 句|五月十五日|
+|DT|堂上問詞解 6.1-6.4|五月十六日|
+|HW|《論語八則》課後練習|五月十六日|
 |HW|文言練習 文言應試訓練 2|五月十九日|
+|HW|堂上問書《論四端》|五月十九日|
 |QZ|Grammar Quiz - Phrasal Verbs|五月十九日|
 |QZ|Geog Quiz|五月二十二日|
 |BK|2 Book Reports on May.|五月二十六日|
@@ -31,6 +33,8 @@
 |QZ|中史小測 下學期|五月二十九日|
 |QZ|Resource Optimisation Quiz 4|六月二日|
 |UT|Math UT6|六月四日|
+|BK|2 Book Reports on May|六月六日|
+|HW|Vocab Book (30 words)|六月九日|
 |BK|中文閱讀報告 第六篇（暑期功課）|九月二日|
 
 <!---
