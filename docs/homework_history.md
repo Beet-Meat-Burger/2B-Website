@@ -442,3 +442,5 @@
 |BK|中文閱讀報告 第五篇（中國歷史）|五月十三日|
 |HW|HWC Ex11G (2,5,8)|五月十四日|
 |HW|Additional Writing Corr.|五月十四日|
+|HW|Music Note P.15|五月十五日|
+|DT|中華經典名句 11-20 句|五月十五日|
