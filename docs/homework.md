@@ -22,13 +22,16 @@
 |HW|文言練習 文言應試訓練 2|五月十九日|
 |HW|堂上問書《論四端》|五月十九日|
 |HW|RO News Commentry|五月十九日|
+|PJ|CL App Project|五月十九日|
 |HW|HWC Ex7B (4,10,12,14,17,19,25)|五月十九日|
 |QZ|Grammar Quiz - Phrasal Verbs|五月十九日|
+|PJ|LS 小組匯報 (一至三組)|五月二十日|
 |QZ|Geog Quiz|五月二十二日|
 |BK|2 Book Reports on May.|五月二十六日|
 |PJ|ICH Time Capsule|五月二十六日|
 |QZ|普通話小測 下學期|五月二十七日|
 |QZ|Grammar Quiz - Relative Clause|五月二十七日|
+|PJ|LS 小組匯報 (四至六組)|五月二十八日|
 |QZ|中史小測 下學期|五月二十九日|
 |QZ|Resource Optimisation Quiz 4|六月二日|
 |UT|Math UT6|六月四日|
