@@ -27,7 +27,6 @@
 |QZ|Grammar Quiz - Phrasal Verbs|五月十九日|
 |PJ|LS 小組匯報 (一至三組)|五月二十日|
 |QZ|Geog Quiz|五月二十二日|
-|BK|2 Book Reports on May.|五月二十六日|
 |PJ|ICH Time Capsule|五月二十六日|
 |QZ|普通話小測 下學期|五月二十七日|
 |QZ|Grammar Quiz - Relative Clause|五月二十七日|
