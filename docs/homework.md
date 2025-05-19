@@ -19,13 +19,10 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|文言練習 文言應試訓練 2|五月十九日|
-|HW|RO News Commentry|五月十九日|
-|PJ|CL App Project|五月十九日|
-|HW|HWC Ex7B (4,10,12,14,17,19,25)|五月十九日|
-|QZ|Grammar Quiz - Phrasal Verbs|五月十九日|
-|DT|堂上問書《論四端》|五月二十日|
+|DT|堂上問書《論四端》一至二段|五月二十日|
+|QZ|Math Quiz Ch.11|五月二十日|
 |PJ|LS 小組匯報 (一至三組)|五月二十日|
+|HW|Life WB Unit 11|五月二十二日|
 |QZ|Geog Quiz|五月二十二日|
 |PJ|ICH Time Capsule|五月二十六日|
 |HW|RO Note P.41-42|五月二十六日|

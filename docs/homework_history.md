@@ -447,3 +447,8 @@
 |DT|堂上問詞解 6.1-6.4|五月十六日|
 |HW|《論語八則》課後練習|五月十六日|
 |HW|HWB Ex7A (3,5,11,13,16,19,22)|五月十六日|
+|HW|文言練習 文言應試訓練 2|五月十九日|
+|HW|RO News Commentry|五月十九日|
+|PJ|CL App Project|五月十九日|
+|HW|HWC Ex7B (4,10,12,14,17,19,25)|五月十九日|
+|QZ|Grammar Quiz - Phrasal Verbs|五月十九日|
