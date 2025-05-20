@@ -452,3 +452,6 @@
 |PJ|CL App Project|五月十九日|
 |HW|HWC Ex7B (4,10,12,14,17,19,25)|五月十九日|
 |QZ|Grammar Quiz - Phrasal Verbs|五月十九日|
+|DT|堂上問書《論四端》一至二段|五月二十日|
+|QZ|Math Quiz Ch.11|五月二十日|
+|PJ|LS 小組匯報 (一至三組)|五月二十日|
