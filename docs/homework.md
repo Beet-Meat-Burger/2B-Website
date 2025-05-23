@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 4，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 5，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
@@ -19,10 +19,8 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|DT|背默《論四端》|五月二十三日|
-|HW|Grammar Unit 26|五月二十三日|
-|HW|Life WB Unit 11|五月二十三日|
 |PJ|ICH Time Capsule|五月二十六日|
+|HW|HWA Ex7E (16,21)|五月二十六日|
 |HW|RO Note P.41-42|五月二十六日|
 |HW|《論四端》課後練習|五月二十六日|
 |DT|問文言詞解 6.5-6.6, 文言歷史訓練 1-2|五月二十六日|

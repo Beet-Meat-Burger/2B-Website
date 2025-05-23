@@ -464,3 +464,6 @@
 |HW|HWB Ex7E (5,15)|五月二十二日|
 |HW|Math Ch.11 Quiz Corr.|五月二十二日|
 |QZ|Geog Quiz|五月二十二日|
+|DT|背默《論四端》|五月二十三日|
+|HW|Grammar Unit 26|五月二十三日|
+|HW|Life WB Unit 11|五月二十三日|
