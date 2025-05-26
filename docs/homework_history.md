@@ -467,3 +467,10 @@
 |DT|背默《論四端》|五月二十三日|
 |HW|Grammar Unit 26|五月二十三日|
 |HW|Life WB Unit 11|五月二十三日|
+|HW|Phy HW15|五月二十六日|
+|HW|Phy HW14 Corr.|五月二十六日|
+|PJ|ICH Time Capsule|五月二十六日|
+|HW|HWA Ex7E (16,21)|五月二十六日|
+|HW|RO Note P.41-42|五月二十六日|
+|HW|《論四端》課後練習|五月二十六日|
+|DT|問文言詞解 6.5-6.6, 文言歷史訓練 1-2|五月二十六日|
