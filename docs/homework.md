@@ -11,6 +11,8 @@
 <br/>
 <br/>
 <h3>速報： </h3>
+<h2>聽日無泳堂。 </h2>
+<h3>聽日上完第四堂後，立刻放飯，只有五十分鐘。請你預定時間，十二點三前返嚟。</h3>
 明天 Day 5，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
