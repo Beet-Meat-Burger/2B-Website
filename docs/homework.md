@@ -21,8 +21,10 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|QZ|Resource Optimisation Quiz 4|六月二日|
+|HW|成語小測改正|六月二日|
+|HW|TED Talk P.|六月二日|
 |HW|中文 Past Paper 改正|六月二日|
+|QZ|Resource Optimisation Quiz 4|六月二日|
 |QZ|中史小測 下學期|六月三日|
 |PS|普通話短講 下學期 (二)| *此日期不存在。* |
 |PS|文言詞解小測 5.1-6.6| *此日期不存在。* |
