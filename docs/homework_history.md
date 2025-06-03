@@ -491,3 +491,9 @@
 |HW|VA Big Drawing|五月二十九日|
 |HW|中史作業 P.60-65|五月三十日|
 |QZ|成語小測 P.492-557|五月三十日|
+|HW|成語小測改正|六月二日|
+|HW|TED Talk P.10-13|六月二日|
+|HW|中文 Past Paper 改正|六月二日|
+|QZ|Resource Optimisation Quiz 4|六月二日|
+|QZ|中史小測 下學期|六月三日|
+|HW|HWB Ex12A (16,21,24,29,31)|六月三日|
