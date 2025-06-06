@@ -504,3 +504,5 @@
 |HW|文言詞解小測 改正|六月五日|
 |HW|HWC Ex12B (11,14,15,16)|六月五日|
 |TS|FM Exam|六月五日|
+|HW|HWA Ex12C (1,16,11,13)|六月六日|
+|BK|2 Book Reports on May|六月六日|

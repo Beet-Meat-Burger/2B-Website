@@ -11,8 +11,7 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-<h2>六月六日無泳堂。 </h2>
-明天 Day 5，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+明天 Day 3，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
 <br/>**Resource Optimisation Quiz** 
 <br/>Quiz 4： After School
@@ -20,8 +19,6 @@
 <br/>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
 |----|-------------|-------|
-|HW|HWA Ex12C (1,16,11,13)|六月六日|
-|BK|2 Book Reports on May|六月六日|
 |HW|Vocab Book (30 words)|六月九日|
 |QZ|中華經典名句 小測|六月十日|
 |BK|中文閱讀報告 第六篇（暑期功課）|九月二日|
