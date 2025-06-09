@@ -506,3 +506,4 @@
 |TS|FM Exam|六月五日|
 |HW|HWA Ex12C (1,16,11,13)|六月六日|
 |BK|2 Book Reports on May|六月六日|
+|HW|Vocab Book (30 words)|六月九日|
