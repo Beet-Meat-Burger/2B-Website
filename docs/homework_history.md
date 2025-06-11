@@ -493,10 +493,12 @@
 |QZ|成語小測 P.492-557|五月三十日|
 |HW|成語小測改正|六月二日|
 |HW|TED Talk P.10-13|六月二日|
-|HW|中文 Past Paper 改正|六月二日|
+|HW|中文 22-23 Past Paper 改正|六月二日|
 |QZ|Resource Optimisation Quiz 4|六月二日|
-|QZ|中史小測 下學期|六月三日|
 |HW|HWB Ex12A (16,21,24,29,31)|六月三日|
+|HW|Phy HW16|六月三日|
+|HW|Phy HW17|六月三日|
+|QZ|中史小測 下學期|六月三日|
 |PS|普通話短講 下學期 (二)| *此日期不存在。* |
 |QZ|文言詞解小測 5.1-6.6| *此日期不存在。* |
 |HW|HWD Ch.11| *此日期不存在。* |
@@ -506,4 +508,9 @@
 |TS|FM Exam|六月五日|
 |HW|HWA Ex12C (1,16,11,13)|六月六日|
 |BK|2 Book Reports on May|六月六日|
+|HW|中文 23-24 Past Paper 改正|六月九日|
 |HW|Vocab Book (30 words)|六月九日|
+|QZ|Math Foundation Test|六月九日|
+|HW|Math Foundation Test Corr.|六月十日|
+|QZ|中華經典名句 小測|六月十日|
+|QZ|Music Quiz|六月十日|

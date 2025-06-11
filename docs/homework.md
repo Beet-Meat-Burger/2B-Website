@@ -11,17 +11,20 @@
 <br/>
 <br/>
 <h3>速報： </h3>
-明天 Day 3，請根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
+<h2>年終試已到。考試加油！</h2>
+已完成 144 個上課日，不用再更改根據<a href="https://class2b-6h3a.onrender.com/docs/timetable_and_calandar">時間表</a>帶書。
 <br/><a href="https://class2b-6h3a.onrender.com/docs/post">How do I get there?</a>
-<br/>**Resource Optimisation Quiz** 
-<br/>Quiz 4： After School
 <br/>
 <br/>
+<h3>你已完成中三級所有功課、默書以及小測。</h3>
+<h3>現時，你的功課僅剩餘暑期功課：</h3>
 |類別：|繳交內容🗒️🗒️：|繳交時間🕗🕗：|
-|----|-------------|-------|
-|QZ|中華經典名句 小測|六月十日|
-|QZ|Music Quiz|六月十日|
-|BK|中文閱讀報告 第六篇（暑期功課）|九月二日|
+|------|--------------|---------------|
+|HW|暑期中文繽紛樂|下學年 九月二日|
+|HW|Summer Adventure in English|下學年 九月二日|
+|HW|Wow! Mathematics Summer Fun|下學年 九月二日|
+|BK|English Summer Reading Report|下學年 九月二日|
+|BK|中文閱讀報告 第六篇（暑期功課）|下學年 九月二日|
 
 <!---
 Steven:
